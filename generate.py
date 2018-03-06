@@ -17,7 +17,6 @@ if __name__ == '__main__':
         url = obj['next']
         for item in obj['results']:
             output.write('\n## [%s](%s)\n' % (item['name'], item['website_url']))
-            output.write('\n![%s](%s)\n' % (item['name'], item['image_url']))
             output.write('\n**%s**\n' % item['precis'])
             output.write('\n### Metadata\n')
             output.write('\n[View ideas list](%s)\n' % item['ideas_list'])

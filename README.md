@@ -4,8 +4,6 @@ The organization page of official website of Google Summer of Code is hard to re
 
 ## [3DTK](http://threedtk.de)
 
-![3DTK](//lh3.googleusercontent.com/32mj02DacQvb0XyTLIyHSVMSOshGADlohc4l7tU62lAygJ2k6PDfOMwbJorg50qhNhfOjIitCpSnFEOKixlzEKHuOtIMoONa)
-
 **The 3D Toolkit provides algorithms and methods to process 3D point clouds**
 
 ### Metadata
@@ -28,8 +26,6 @@ The 3D Toolkit is a collection of programs that allow working with 3D point clou
 
 * Twitter: To apply, please consider joining our mailinglist at https://sourceforge.net/p/slam6d/discussion/ Most discussions are happening there and by writing to the list you will reach all our contributors. Please tell us about your expertise and which part of 3DTK would interest you. Since 3DTK is a big project we are sure that we can find an area that meets your interest and can benefit from your skills! We are open to any new ideas of what you want to improve about 3DTK but if you aren't sure yet, we compiled a wishlist of wanted features here: http://slam6d.sourceforge.net/wishlist.html
 ## [52° North Initiative for Geospatial Open Source Software GmbH](https://52north.org/)
-
-![52° North Initiative for Geospatial Open Source Software GmbH](//lh3.googleusercontent.com/nVUqmlAxfCBB0ZGQkkSu3RdFUfViO88Yyqcn1-NKvo4jWv2iLq5T8f4DJXK3r9F7CIVVaFRT0mj6Pv6aR9hDVYEh387INvE)
 
 **52°North is an open source initiative in the field of geoinformatics. Core topics of our activities are for example sensor web, web-based geoprocessing and earth observation.**
 
@@ -77,8 +73,6 @@ When submitting your application, please make sure to use the following template
 * References
 ## [AerospaceResearch.net](http://www.aerospaceresearch.net)
 
-![AerospaceResearch.net](//lh3.googleusercontent.com/rYXF5UmRdUh6kTq56KB2TnWk9nFMnrSvd3Soef9gTXYLpdmA3HSjNdRzeN05j1CP1s-MVmDXlGtQNYqv4fgj_Anoe3dfmv0)
-
 **Making Space Together!**
 
 ### Metadata
@@ -111,8 +105,6 @@ betterment of everybody.
 * Twitter: We posted a list of points you, as an interested student, can get if you follow our list of things we want to see from you in your application and the communication phase. It is on our ideas page under "Transparent Application Rating" >> https://aerospaceresearch.net/?page_id=612
 ## [aimacode](http://github.com/aimacode)
 
-![aimacode](//lh3.googleusercontent.com/6iWHAJ0GSuYnGcD-Uzxj3DX2ai_Hq3GlYGEziwBRSIfkM8MqYfsDsZ6ARvuKCWOszF3rtAXEkbhfAEoOvXDlpRegk4iwoQ)
-
 **Code to accompany the textbook  "Artificial Intelligence: A Modern Approach"**
 
 ### Metadata
@@ -134,8 +126,6 @@ This project provides implementations of the pseudocode algorithms in the textbo
 
 * Twitter: See https://github.com/aimacode/aima-gsoc
 ## [Amahi](http://www.amahi.org)
-
-![Amahi](//lh3.googleusercontent.com/Yjd0G2IvDEIMV1JbK3_ScmmIvcMTrhApySNmFolCW1b-Yytwh__UPMy4wFnl_0YUco4tVQOewgNpP5XBMHReiJpfvL6bOOU)
 
 **Amahi is a home media/storage server with a web interface. It comes with mobile apps for easy streaming of your media and data**
 
@@ -167,8 +157,6 @@ Once the installation is complete, the network services kick in, storage can be 
 
 * Twitter: https://goo.gl/forms/xuHVyUdW0hmVSO9V2
 ## [AOSSIE - Australian Open Source Software Innovation and Education](http://aossie.org/)
-
-![AOSSIE - Australian Open Source Software Innovation and Education](//lh3.googleusercontent.com/JlCbheGbtH098VfiQYQT-QuE-dslLBbYnT1lN03mAfmtvKHrpul5oQN2q00_O9djfH5eju5XUqxoBS1eWVjsnvjnmkr7MxA)
 
 **The Australian umbrella organization for open-source projects.**
 
@@ -268,8 +256,6 @@ Final Evaluation
 *Any Other Relevant Information:*
 ## [Apache Software Foundation](https://apache.org)
 
-![Apache Software Foundation](//lh3.googleusercontent.com/Ts05O7XpiUbt2I8JQlpAp2lVKVTRp-dsfu0FH9-FJouJud6XN6jSlkdnoBfiTE31BnIl8j75CXTF2RLgvhdPQC6s5COZFmDH)
-
 **The Apache Software Foundation provides organizational, legal, and financial support for a broad range of open source software projects.**
 
 ### Metadata
@@ -307,8 +293,6 @@ In drawing up your proposal you need to work with your chosen projects community
 One of our evaluation criteria is that you have already engaged with the community to ensure that you understand the needs of the project and the commitment you need to make to your mentors.
 ## [Apertium](http://www.apertium.org)
 
-![Apertium](//lh3.googleusercontent.com/PlmlDWSLmPGDO07qA51BQ3ToSVzZYzHFjk651e_HKjm4bdM3y2EH6lm0OGH6j51Y5Q6qJIRbV5Scz3FTW-rTJUgji0fBJQ)
-
 **Apertium is a free/open-source project that aims to create machine translation systems and other types of language technology for all the languages in the world.**
 
 ### Metadata
@@ -336,8 +320,6 @@ There are around 7,000 languages in the world today, around half of which are wr
 * __Read the Ideas Page!__: If you find yourself asking 'do you have any Java/Python/Fortran/x86 assembler projects...' -- you didn't read [[Ideas for Google Summer of Code|the ideas page]]. Read the ideas page.
 * __Do the coding challenge__: Every idea will have a coding challenge to perform, this is basically a test to see if you have the required skills to do the project or if you can acquire them in a short amount of time.
 ## [Apertus Association](http://www.apertus.org)
-
-![Apertus Association](//lh3.googleusercontent.com/3gCWWIug95-3Lllj05wOGualpzNxzK0i0PTQPDa0TWx68ajGLShKzYa9CiOdL4KsOm5vg55WQ_CapSxYITthcG1ywjCNQFM)
 
 **Developing Open Technology for Professional Film Production**
 
@@ -374,8 +356,6 @@ Once you’ve selected a project assignment from the ideas page, please include 
 
 Please complete a matching mandatory qualification task on the idea page (also linked to with every idea/task on the idea page) when you apply. When applying with your own idea please check with the mentors/org admins beforehand to see which qualification task would be a good match. Applications without completed qualification task will not be considered.
 ## [appleseedhq](https://appleseedhq.net/)
-
-![appleseedhq](//lh3.googleusercontent.com/crWGBcOysO7zNe7JMGdw3q3aGfJKL0DG2Jzh20EQji5_5w2MBcWEDYuZDxhQXydwgS8iXXC5iyLtUYCnkANtfUHvk9UCjeKF)
 
 **appleseed is a modern, open source, physically-based global illumination rendering engine primarily designed for animation and visual effects.**
 
@@ -432,8 +412,6 @@ Since participating in an open source project is all about engagement with the c
 Our community is a safe, welcoming place to **everyone**. Please be respectful and relaxed :)
 ## [ArduPilot](http://ardupilot.org)
 
-![ArduPilot](//lh3.googleusercontent.com/ZtnyImlRn4sNf4ZYUHYQ7Xtf3FtOHx0CHfQiTWdQ7dOc_GNGjWGUgmEMqAw8l3Q9UuYkxRL7BbE56WuRxdfo3RDUtNBEsw)
-
 **ArduPilot is the most widely used and advanced open source autopilot software available.  Fast and flexible, it supports multicopters, plane, cars, submarines and more!**
 
 ### Metadata
@@ -478,8 +456,6 @@ Then engage with the Ardupilot community. There are several ways you can do this
 * Through our [discussion forum](https://discuss.ardupilot.org/c/google-summer-of-code): As with the mailing list you can start a topic introducing yourself, your background and ideas to participate for further discussion.
 Also feel free to join our [mumble server](http://ardupilot.org/dev/docs/ardupilot-mumble-server.html) to discuss projects, once you have a good idea of what you would like to work on.
 ## [BeagleBoard.org Foundation](https://beagleboard.org)
-
-![BeagleBoard.org Foundation](//lh3.googleusercontent.com/0KV2X3MQLYVzkm0r1QIZTec1nZe2LmGqhJt7FmxAD7D7booJnpoV_zcieTmJdPer0VO1hjjzXKy-1AyVhiQPuyZkVgAWRQ)
 
 **Open source community of experienced hackers, hobbyists and engineers enthusiastic about building powerful, systems completely programmable through your browser**
 
@@ -529,8 +505,6 @@ Misc
 2. Is there anything else we should have asked you?
 ## [Beam Community](http://beamcommunity.github.io)
 
-![Beam Community](//lh3.googleusercontent.com/hjzZApZuMw_-uRSSfd73M9Pj2O-kEpGUns5-eUe8zi3xJZQceMwRqW8SPK_6ZddNFxR6SZhEK2dgrXx--xwptKnyYZdxN8A)
-
 **The BEAM Community is a group of projects that run on the Erlang VM. Our goal is to host relevant projects in the Erlang and Elixir communities.**
 
 ### Metadata
@@ -557,8 +531,6 @@ Many companies around the world like Amazon, Heroku and Activision use the Erlan
 
 Students should pick their projects and submit proposals from 12th to 27th March 2018. We recommend students to work closely with mentors in order to craft the best proposals. Our mailing list is the best place to ask questions and get more details about our projects!
 ## [BeeWare Project](https://pybee.org)
-
-![BeeWare Project](//lh3.googleusercontent.com/XZtF21KXmGML9y6r8kIzbSt-EhusHemjuu3rvKadbF99hEg-45YcSys1-VYheAMvAZjbgmbpTfbsgBkxTDGSgS_9sq6phc8)
 
 **Want to write an app in Python for your laptop, phone, tablet, set top box, or watch? BeeWare has all the tools you'll need.**
 
@@ -605,8 +577,6 @@ We will blind review these initial applications to develop a short list of inter
 
 It will be in your interest to start this application process early. If you submit your initial application hours before the GSoC application deadline, we won't have enough time to evaluate you fully.
 ## [Berkman Klein Center for Internet & Society at Harvard University](https://cyber.harvard.edu)
-
-![Berkman Klein Center for Internet & Society at Harvard University](//lh3.googleusercontent.com/FtnYMNs3B3SZfxkdKQONDlO-G8R_OyScQ1LvvyjZ-Jt-V5bj6lJAuF2Dk8AAughYi1xFf3t36mdyem0vI3SFfFIjfM6qHFxF)
 
 **The Berkman Klein Center's mission is to explore & understand cyberspace; study its development, dynamics, norms, standards; to assess the need or lack thereof for laws & sanctions**
 
@@ -666,8 +636,6 @@ Our application template can also be found at https://cyber.harvard.edu/gsoc/App
 8. We strongly prefer students that provide code samples, ideally in a "social coding" site like GitHub. Please provide a link to code you've written.
 ## [Blender Foundation](https://www.blender.org)
 
-![Blender Foundation](//lh3.googleusercontent.com/IWB7KMeE8PzJW6LtkPurJYzoFe-XU6lc-BuVdr3umGussbvLRxInLf-HggyiPMKD54p2XNNHiM8GyVUQB6temGh_4eSz5A)
-
 **Blender is the free/open source 3D creation software for everyone, providing individuals and small teams a complete pipeline for 3D graphics, modeling, animation and games.**
 
 ### Metadata
@@ -700,8 +668,6 @@ We invite students to think of ways to help us with this further. If your passio
 
 * Twitter: https://wiki.blender.org/index.php/Dev:Ref/GoogleSummerOfCode/2018/students
 ## [Boost C++ Libraries](http://www.boost.org/)
-
-![Boost C++ Libraries](//lh3.googleusercontent.com/kkg0_gw4dqFGqG4n0NpHKwtdmGotzAxO5zt09QniDCiPiyAvYzKEWW_LlNcX4aj4TcKUOsvsX6yAn-p8jhLIsnj-TkKNQRVe)
 
 **Boost provides free peer­reviewed portable C++ source libraries. We emphasize libraries that work well with the C++ Standard Library.**
 
@@ -738,8 +704,6 @@ Since 2006 an intimate week long annual conference related to Boost called C++ N
 Potential mentors may add precanned project ideas with programming competency tests to this page below as GSoC approaches. These may prove useful in starting a discussion with potential mentor(s) whom the student should approach directly.
 ## [Boston University / XIA](https://github.com/AltraMayor/XIA-for-Linux/wiki)
 
-![Boston University / XIA](//lh3.googleusercontent.com/5pSgr94K_LHENfQz9wakTsfWeMnoBDd09U1D2sxCPFu1yrLIxbRVCjTjlkv0EPr5PEyXi6E1Ou_ELN47SrihvvSUJRtm8g)
-
 **Finding the successor of TCP/IP is the ultimate goal of our project. If you are a proficient C or Python programmer and our mission inspires you, join our quest.**
 
 ### Metadata
@@ -768,8 +732,6 @@ Pranav Goswami, one of our previous students, has summarized the growth experien
 
 * Twitter: We have centralized the links to resources, an  example proposal, proposals accepted in previous years, and advice to help students to prepare their applications for our organization on the following page of our wiki: [GSoC proposal advice](https://github.com/AltraMayor/XIA-for-Linux/wiki/GSoC-proposal-advice "GSoC proposal advice").
 ## [BRL-CAD](https://brlcad.org)
-
-![BRL-CAD](//lh3.googleusercontent.com/UdGVKYBo_c7GgYfrVGhcbejqpuw9ZembplEoqbgyvm2En1lE8WcxkaokwXA9IxS4fIsW4nHCzk_aQGokARtFBSTNbowZTZs)
 
 **BRL-CAD is partnered with several computer-aided technologies (CAx) including LibreCAD, OpenSCAD, STEPcode, LinuxCNC, FreeCAD, & Slic3r.  We do graphics, geometry, CAD, & more.**
 
@@ -815,8 +777,6 @@ We are part of a large open source community that makes tools to help you make a
 
 [GET STARTED HERE](http://brlcad.org/wiki/Google_Summer_of_Code/Checklist)!
 ## [Canadian Centre for Computational Genomics](http://computationalgenomics.ca)
-
-![Canadian Centre for Computational Genomics](//lh3.googleusercontent.com/bjfSdHSVDVY12vQ7TzVbeRo80Aa317bBACgi7IyjYkPBwEdBH7JO9kiwWhIWpYcj5qQ1kHKuUKY70JYA0dVLz5FGmKA57w)
 
 **The Canadian Centre for Computational Genomics provides bioinformatics analysis and High Performance Computing services for the life science research community**
 
@@ -865,8 +825,6 @@ The Montreal C3G node also develops other bioinformatics tools:
     5 Once your mentors have proof-read your proposal, submit it to google: https://summerofcode.withgoogle.com/
 ## [Catrobat](http://catrobat.org)
 
-![Catrobat](//lh3.googleusercontent.com/AbTjPOjC771F5R2LOyxzdnPEy0G1ilJ_c5xoqdEtVRltLwQB2gHc68KG40tY3XrGdk5pDzxv0bJ8gcX0OC932Nhs5KnpNSc)
-
 **We want to enable especially teenagers to learn how to code and how to create their own games, animations or apps in a user-friendly framework by sticking together simple blocks.**
 
 ### Metadata
@@ -896,8 +854,6 @@ We also work on frameworks for other OS and on making it available on browsers. 
 Please use it for your application and follow the instructions you can find in it! Thanks and we're looking forward to your application!
 ## [CCExtractor Development](https://ccextractor.org/)
 
-![CCExtractor Development](//lh3.googleusercontent.com/RBqjglealQt_IuRhceiX6r5vJjcinAkhsMsAraQbrXXl93HKyFkmvNrFMOPkeUeLh0WRd2_c_hFa4_DrzJq-Uh54TkX5rw)
-
 **We write the de-facto standard open source tool for subtitles**
 
 ### Metadata
@@ -926,8 +882,6 @@ Make sure you join us in slack before submitting your application. We've never a
 
 If you have participated in code-in or GSoC in the past, please mention it.
 ## [Center for Research In Open Source Software (CROSS) at UC Santa Cruz](http://cross.ucsc.edu)
-
-![Center for Research In Open Source Software (CROSS) at UC Santa Cruz](//lh3.googleusercontent.com/7RBQNDXTZehOirRd4pdslC8evaKcbat_YUbp2v2xD2LZl3PPZvSGhzz5UbO3Fr78LSXldNmYRz3CP7lenh5Lk_HKghgewg)
 
 **CROSS at UC Santa Cruz turns OSS prototypes into successful open source software projects. Our projects are mentored by experts chosen specifically to best ensure success.**
 
@@ -993,8 +947,6 @@ Biographical information
 - Contact information
 ## [CERN-HSF](http://hepsoftwarefoundation.org/activities/gsoc.html)
 
-![CERN-HSF](//lh3.googleusercontent.com/q6OBCzxGyvqIIGkRM9EOg5pQu2hmw4AFL8SZVj4hMGkhnfLkHZoJGVgOYsrT3DWraaDXfkJrlkSHof9rrNsQAdqxX_itjRs)
-
 **CERN-HEP Software Foundation, umbrella organization for particle physics in GSoC**
 
 ### Metadata
@@ -1029,8 +981,6 @@ Once you have chosen one or more proposals that you like, please contact the cor
 Mentors will typically ask you to complete a technical test to evaluate if you have the skills required for the project. Please note that the vast majority of our GSoC projects do not require any physics knowledge; in case of doubt, ask the mentors.
 If you do well in the tests, mentors will usually ask you to write a description for your project and help you with the submission.
 ## [CGAL Project](https://www.cgal.org)
-
-![CGAL Project](//lh3.googleusercontent.com/e1uDZ-a2-940fEVcmHf84gWIpVvTMClySFsHDz3I5dJZgVN6-itJL-oO_yPS_w27i5XOLsmOSRXTYgqg7TdXh7tQxfDHfH8)
 
 **CGAL is a software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.**
 
@@ -1073,8 +1023,6 @@ Personal data:
  - What are your long-term wishes in terms of job?
 ## [CHAOSS: Community Health Analytics Open Source Software](https://chaoss.community/)
 
-![CHAOSS: Community Health Analytics Open Source Software](//lh3.googleusercontent.com/lmamELvHGQ2r_NKaRQVBhfdbOIFG4Wz2SYKG8zFs_b-PxPNipL3pIo2kfYmJmfgzv7baQEsimX5CiQ1nQe-boMsjtLSkSEQ)
-
 **CHAOSS is for exploring metrics to make the health and sustainability of open source projects visible**
 
 ### Metadata
@@ -1097,8 +1045,6 @@ Understanding health and sustainability is of increasing importance as people an
 
 * Twitter: Students will submit their applications to the CHAOSS metrics mail list. In their application they will identify the specific project they are interested in, include a current resume, as well as statement of interest for participating in the Google Summer of Code.
 ## [Checker Framework](https://checkerframework.org/)
-
-![Checker Framework](//lh3.googleusercontent.com/b2mbps1X8GoiqIQlfK1aJYZoQHbz5hSPJsRfCwNclgyw3I3kxFTIyBadRBQZlpgPub-z8zmJYyuTN5pAtxy6pkc8_2akiQw)
 
 **We build tools for programmers, to prevent run-time errors at compile time.  These aren't just bug-finding tools.  Our tools give a guarantee, but are easy to use.**
 
@@ -1132,8 +1078,6 @@ Please see our [ideas list](https://checkerframework.org/gsoc-2018-ideas.html) f
 
 * Twitter: We welcome your participation.  Please see our [ideas list](https://checkerframework.org/gsoc-2018-ideas.html), which tells you [how to get started](https://checkerframework.org/gsoc-2018-ideas.html#get-started), [how to apply](https://checkerframework.org/gsoc-2018-ideas.html#apply), and how to be successful.
 ## [CiviCRM LLC](https://civicrm.org)
-
-![CiviCRM LLC](//lh3.googleusercontent.com/ZZXTUYcaLccoWZ5KnhiFP6BFW-LH3Hsf4w8gtYNoRwxH_aZoxcGocNCYZSLms-8y9tzxT_HiruUsxRV9p4JklNBTVDL76L0)
 
 **Estabished in 2005, CiviCRM is the leading open source CRM for nonprofits worldwide**
 
@@ -1178,8 +1122,6 @@ We may reach out into the community to find experts in the area of your interest
 Start early!
 ## [Classical Language Toolkit](http://cltk.org/)
 
-![Classical Language Toolkit](//lh3.googleusercontent.com/CKCUu4iWJwdYiZN3iTns4NDVc-_rPltAk4ktzHQJcmfVsZQRHZRJlhHUlUge-Ahe3O3CrnONguwIEbfsJsTpBy1BzYtqfHU)
-
 **The Classical Language Toolkit brings state-of-the-art natural language processing to the languages and literatures of the ancient world.**
 
 ### Metadata
@@ -1214,8 +1156,6 @@ For those not familiar with an ancient language, we would like to see a web proj
 
 If you are unsure of how to contribute, please reach out to us on Gitter or Google Groups.
 ## [CLiPS, University of Antwerp](https://www.uantwerpen.be/en/research-groups/clips)
-
-![CLiPS, University of Antwerp](//lh3.googleusercontent.com/D_C7uJjwDFU-9qxb21PF93nKuyl6Sw21r1w_aeFBJgOX6FTyyihB105bu0Mg0GBShTNXW0GDxdnfPTSDI580-HRlzO2EFF96)
 
 **The Computational Linguistics & Psycholinguistics Research Group of the University of Antwerp develops automatic text analysis systems that are accurate, efficient and robust.**
 
@@ -1252,8 +1192,6 @@ Tell us how you will tackle the challenge. Be bold, tell us about your own ideas
 If you fear that you don't have the required skills and knowledge, but you really, really want to be involved, tell us why, and think of ways you can contribute while learning the ropes. Motivation is very contagious.
 ## [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
-![Cloud Native Computing Foundation (CNCF)](//lh3.googleusercontent.com/CsmlKgZrFZ1rvEA66QwhtlNrkJl0ZHyiaHV-pzjttp23OuZD6GrY0DaLT8Ws4Cr5gw_8-SOs9aX-L5xIkVqugsU4zcKN3fY)
-
 **The CNCF promotes cloud native computing across the industry and sustains open source cloud native projects such as Kubernetes, Prometheus, gRPC, Envoy and more!**
 
 ### Metadata
@@ -1284,8 +1222,6 @@ You can learn more about our organization here: https://cncf.io
 
 * Twitter: https://github.com/cncf/soc
 ## [CloudCV](http://cloudcv.org)
-
-![CloudCV](//lh3.googleusercontent.com/8wutKBb4zhfO_f-jQ1Ffbd3ib_pzwurtAtH4M7UInkYXW6Cofn-A4YaHBweI8eRz2zKldohP3ovMsHFwrH6laU0j31icjiDQ)
 
 **CloudCV is an open source platform to make AI research reproducible by making it easy for researchers to build, compare, and share state-of-the-art AI algorithms.**
 
@@ -1337,8 +1273,6 @@ Detailed guide about the patch requirement can be found here:
 https://github.com/Cloud-CV/GSoC-Ideas/wiki/Patch-Requirement
 ## [coala](https://coala.io/)
 
-![coala](//lh3.googleusercontent.com/wDrytfhfMNK4vvg7hIkUMyZRTTPW9y125eE9wusFTC6vNK2yoPVykwOLb5crWKzuP7hgq8JZlIOkiukibGo4lL5B5Me4cK2L)
-
 **Linting and Fixing Code for All Languages**
 
 ### Metadata
@@ -1381,8 +1315,6 @@ coala offers a great newcomer experience with an in depth step by step guide for
 
 * Twitter: Guidance for applying to coala can be found in our [FAQ](http://projects.coala.io/#/faq) and dedicated [gsoc](https://gitter.im/coala/coala/gsoc) gitter room.
 ## [Computational Biology @ University of Nebraska-Lincoln](http://helikarlab.org)
-
-![Computational Biology @ University of Nebraska-Lincoln](//lh3.googleusercontent.com/PxFw8wDQUkPqz5ZVyRaSbNAqQpEotHzm-9_2nsRtf1UpUkX_-UqfAUvmmvVwekrFUrrPbEsPjzFhAwAugQG4EpxwS5WAkA)
 
 **Our organization develops tools for bioinformatics and computational biology research. Our goal is to further knowledge in health through data visualization and analysis.**
 
@@ -1441,8 +1373,6 @@ We would like to know who you are and how you think. Incorporate the following i
 7. Submit your application through the GSoC Site as explained here: https://google.github.io/gsocguides/student/
 ## [Conversations.im](https://Conversations.im)
 
-![Conversations.im](//lh3.googleusercontent.com/K8qxiPXmyxf3YBib5P4Fby8RZ3EoUxQW04d7PyrrmTkf2mRolpoORnzJHd9SSD6gdWbmnMCdlY8kFdr8f1yZzXl_9QNh3vw)
-
 **Conversations started out as an easy to use Jabber client for the Android platform but quickly became an umbrella project for all sorts of UX improvements to the XMPP ecosystem.**
 
 ### Metadata
@@ -1474,8 +1404,6 @@ Details on what we expect the actual proposal to look like can be found at the b
 
 Please note that those ideas are only inspirations. You can submit any project proposal that you believe will bring value to the XMPP ecosystem. Be it tools that help server admins create better servers, add a specific feature to a specific XMPP server or client or tools that somehow improve the usability for end users. In a way we even appreciate it even more if you submit your own ideas instead of copy pasting one of ours because it shows that you have investment in the XMPP ecosystem.
 ## [Cuneiform Digital Library Initiative](https://cdli.ucla.edu)
-
-![Cuneiform Digital Library Initiative](//lh3.googleusercontent.com/m7L08sPGT79rfxse_KjjZm2B8kLFVLCmjHwUHT8TNXIqLhCnsrELCaGnAOC-GlR6LrLmzIdVx65Q7TaxeBPC9-wg6_AzpQw)
 
 **CDLI is an international digital library offering in open access images, text and metadata of ancient Near Eastern artifacts inscribed with cuneiform.**
 
@@ -1517,8 +1445,6 @@ Tell us about your character, skills and experience and how this makes you the i
 ### Portfolio (Optional)
 Links [2-max]
 ## [DBpedia](http://dbpedia.org/)
-
-![DBpedia](//lh3.googleusercontent.com/c4CCspCNBcPuycurCqaIjQIX8CLF8TbzSw3j-wIOmulUhHA2846XlZSZgIPqGomKx7qgECDn1-1KXDfP3inPCsW-nMpSoJb-)
 
 **DBpedia is a crowd-sourced community effort to extract structured information from Wikipedia and make this information available on the Web.**
 
@@ -1571,8 +1497,6 @@ Questions regarding ideas should always be public, on the mailing list, slack, o
 For GSoC related queries check the GSoC student guide https://developers.google.com/open-source/gsoc/resources/guide
 ## [Debian Project](https://debian.org)
 
-![Debian Project](//lh3.googleusercontent.com/jC07WJ0bFpZFV_QcSPsLCqV_qG0TYR1dHi_Zk9ZV6usiie35fQqXd2YQk3A0mZ53S3mGs0uXh6KbwcxKj0QuCD83UIGGag)
-
 **Debian is the free operating system, based on the GNU/Linux kernel. With tens of thousands of software packages available, Debian is a broad, robust, and extensible project.**
 
 ### Metadata
@@ -1612,8 +1536,6 @@ It's a bit like a tower. At the base is the kernel. On top of that are all the b
 
 * Twitter: Individual projects are highlighted on the [projects list](https://wiki.debian.org/SummerOfCode2018/Projects). Much like the projects themselves, the skills and tasks necessary for each application vary. Please check out the projects list to see application tasks.
 ## [Developers Italia](https://developers.italia.it)
-
-![Developers Italia](//lh3.googleusercontent.com/OOqmmf5_zcTRoKooubBJ3QPhRGJNa_baISWBxUgaEjV634bbYESXjxdw8SxL_S9KSnQ-7dWM8TLFUbO4EJAIV8xCmXmsGBhS)
 
 **We are a community dedicated to the development of software to support digital services for citizens. Born in the Italian government, but of course: code has no borders.**
 
@@ -1657,8 +1579,6 @@ Check out the github issues as well as join the relevant slack channels: meet de
 
 Always remember: this is a very brief instruction list - in any case of any doubts, just reach out to us, we're very happy to help new developers get started!
 ## [Digital Impact Alliance](https://digitalimpactalliance.org)
-
-![Digital Impact Alliance](//lh3.googleusercontent.com/Ht37bphpyM-RMzxgJjiQZkakv00CgEizDDjqz3Ws3xfIYxoIQzDdAH477gegRNSpGSQccrow9OdmBZsW_2MZmrM8KGd5-3k)
 
 **The DIAL Open Source Center is a collaborative space for many different open source software projects serving the international development and humanitarian response sectors.**
 
@@ -1742,8 +1662,6 @@ Link to a patch/code sample, preferably one you have submitted to your sub-org:
   - Don't forget to add any other additional information requested by sub-orgs in this section.
 ## [Django Software Foundation](https://www.djangoproject.com)
 
-![Django Software Foundation](//lh3.googleusercontent.com/VPbYEgPfnoJkCua2Ck09hgQbE36RrtthJmaR7To3W0UepyGwgJ-3xBpsAzi_zZo8aZM8HQPovzaQmX4cf_HxzEihxc8A9F0)
-
 **Django is a high-level Python Web framework originally designed to build high-performing, elegant Web applications quickly.**
 
 ### Metadata
@@ -1779,8 +1697,6 @@ Here's an example of an accepted proposal from a previous year:
 
 When you contribute code, you will be expected to adhere to the same contribution guidelines as any other code contributor. This means you will be expected to provide extensive tests and documentation for any feature you add, you will be expected to participate in discussion on ​django-developers when your topic of interest is raised. If you're not already familiar with ​Django's contribution guidelines, now would be a good time to read them - even if you're not applying to work on Django core directly, we'll still want the same level of contribution.
 ## [Drupal](https://www.drupal.org/)
-
-![Drupal](//lh3.googleusercontent.com/KmgMUHNDgrv9LNAGb9CHGKkOB5IItllaVRe8_Ssq4jNMtpqlcxTFnmM9j9Lo53T00MC6BMGvdom3YPnmWQn0U4f4HmeY7g)
 
 **Drupal is an open source content mgmt platform powering millions of sites and app. It’s built, used, and supported by an active and diverse community of people around the world.**
 
@@ -1821,8 +1737,6 @@ All students are required to complete Drupal Ladder for GSoC students @ http://d
 All applications must follow Drupal's application template @ https://groups.drupal.org/node/411293. If you wish to look at some of the sample successful applications from the previous years, you can find them @ https://groups.drupal.org/node/459223. But remember that these are provided to be used merely as inspiration material, and not resources to copy from.
 ## [Earth Science Information Partners (ESIP)](http://esipfed.org)
 
-![Earth Science Information Partners (ESIP)](//lh3.googleusercontent.com/kopVgaFHBtOKPakEm8BoPJ3BGVb1xLwHSfBf5dxvXiAUObSqaWAtQNwnLSlHMIAqxdV2NNVhbzOUUG0cZax0ZUb7OOLTe9w)
-
 **ESIP is a nonprofit that supports an open, networked community of science, data and information technology practitioners. ESIP is supported by NASA, NOAA, USGS and 110 member orgs.**
 
 ### Metadata
@@ -1851,8 +1765,6 @@ The Earth Science Information Partners was founded in 1998 by NASA in response t
 
 * Twitter: Application templete: https://github.com/ESIPFed/GSoC/wiki/Application-Template
 ## [Elastic](https://www.elastic.co)
-
-![Elastic](//lh3.googleusercontent.com/w-0QC9kComYzrWQwjO1dQLTEJjo60KDRi14_d__Dom80YqzEFZxCwqk6BS_dq81c8kbAb2i0gOMEQl0VfZ4TnqvdzGhutFEA)
 
 **We are the creators of Elasticsearch, Kibana, Beats, and Logstash — the Elastic Stack. Securely and reliably search, analyze, and visualize your data.**
 
@@ -1895,8 +1807,6 @@ If there are any open questions or you get stuck, don't despair — we are here 
 * For all other questions or discussions like the application process, your pull request, what to expect from us during the project,... head over to [Discuss](https://discuss.elastic.co/c/elastic-user-groups/elastic-gsoc).
 ## [Eta](https://eta-lang.org/)
 
-![Eta](//lh3.googleusercontent.com/InFNu4qcX_r8OkLD3cbh40t_HGiHbyX5S7QDE2cQL-D3RJOYfMOmSG3Lbn4QD-eXxgj9FbJ3M3-tVJp1KA2gAIsej7ZBUhA)
-
 **Eta is a pure, lazy, strongly typed functional programming language on the JVM. It brings the mighty, JVM and Haskell ecosystems, together.**
 
 ### Metadata
@@ -1938,8 +1848,6 @@ Read the student guide of GSoC (https://google.github.io/gsocguides/student/). T
 The application template can be found here (https://eta-lang.org/contribute/gsoc/2018#application-template).
 ## [Fedora Project](https://getfedora.org/)
 
-![Fedora Project](//lh3.googleusercontent.com/UadPS38ar1uJwu8u7N5GJGdm8n6BKGXAlZF7UCc83ClHbhJIsYPIFYWpJJ43Ry9PqWayFU_0X5jGy3PcCjiD0fcJECfpIFc)
-
 **Advance Free/Open Source Software/Content. Fedora is more than just one technology or concept it is a larger collaborative community.**
 
 ### Metadata
@@ -1972,8 +1880,6 @@ We believe that all contributors should expect and be part of a safe and friendl
 
 In general, we are looking for students to describe both their understanding of the project they are choosing (or their complete project if they are proposing one) and to help us understand why they are the best candidate for the project. This also includes helping us understand their availability and level of commitment. While prior experience with Fedora is ideal, it is not a selection requirement.
 ## [FFmpeg](https://www.ffmpeg.org/)
-
-![FFmpeg](//lh3.googleusercontent.com/TdDqRGvO7qLDDFibkOZUnjqeYs_cy6a4VoNP-Nfh2DeIm9TjiWXWvXEshTvWTtPg5IsxTst5IDXRHjNgc3yU3wL_MWbmVog)
 
 **FFmpeg is the complete, cross-platform solution to record, convert and stream audio and video.**
 
@@ -2031,8 +1937,6 @@ Next, write your potential mentor an initial mail to actually dive into your app
 [Find all details in our Wiki](https://trac.ffmpeg.org/wiki/SponsoringPrograms/GSoC/2018)
 ## [FOSSASIA](https://fossasia.org)
 
-![FOSSASIA](//lh3.googleusercontent.com/hYP83k9BWNrIyPa0eE-DYgzk0sWBOPa__03xGMUUQM6mj3N2w9zXDnNdOEFJ4SvX56U1LqXRiPga7nU20A_NBxcusVkghzs)
-
 **Improving people's lives around the world with software and hardware for conversational AIs, science and event management.**
 
 ### Metadata
@@ -2057,8 +1961,6 @@ FOSSASIA develops Open Source software and hardware for conversational AIs, scie
 
 * Twitter: Please see our program guidelines and templates here: https://docs.google.com/document/d/1E4kNgrOSw64R2IAG45JSIgQL9Yxia-mG2dqlRcrUo-U/edit
 ## [FOSSology](https://fossology.org/)
-
-![FOSSology](//lh3.googleusercontent.com/2Nqak6pNdSmcKd1wuACotmtHIbmKM0sl_AdNAwg-jueDaDoa2GDVcWd9egASswGviM6Sg0MOw4ZsIIYPJPxu6dXh-3zooFAi)
 
 **FOSSology is a open source license compliance software system and toolkit, a database and web UI are provided to analyze OSS packages for their licensing at very much detail.**
 
@@ -2091,8 +1993,6 @@ Please review the requirements described in the project ideas page at https://wi
 
 You could submit your proposals using the GSoC website to the mentor from the ideas page. Please feel free to contact them directly with questions.
 ## [Free and Open Source Silicon Foundation](https://fossi-foundation.org)
-
-![Free and Open Source Silicon Foundation](//lh3.googleusercontent.com/GD9QWw87XJbYcyXXsmdPOyMY6y9u_RMkSogFLyKCVDb-6Z94xJ-IzV2d9j5EU23KrUL3RACq94HBcqeigmCNDteBPyYRk5s)
 
 **Umbrella for various projects around open source hardware and tools**
 
@@ -2128,8 +2028,6 @@ Google Summer of Code students are invited to present and demonstrate their proj
 
 Generally, we highly encourage you to get in touch with the projects early and thoroughly. The proposed mentory are happy to support you with understanding the proposed projects. They will also guide you on milestones and other planning parts of your application. You should be confident to being able to conduct the project and ask as many questions as you have!
 ## [Free UK Genealogy](http://www.freeukgenealogy.org.uk)
-
-![Free UK Genealogy](//lh3.googleusercontent.com/kxbk9FNkXZsZBadobZm7NeO_kpvHy7_z6pdgvFLbnpx6vVT8AviEy_kTwYp4g6GRQcd3K7enrJZ7hYlyknSYgdi5m_p7hHc)
 
 **Free UK Genealogy provides free access to over 400 million records. The databases, search engines and user interfaces are largely designed and maintained by volunteers.**
 
@@ -2168,8 +2066,6 @@ You are encouraged to try out our websites as a user before or during the summer
 Upfront: could you help out with one of the ‘good first issue’ tasks from our waffle board? If you can replicate a bug  - can you look at the code and suggest where the problem might lie?  Suggest a solution?
 ## [FreeBSD](https://www.FreeBSD.org/)
 
-![FreeBSD](//lh3.googleusercontent.com/4MDzw_NjNaZ5AM-CCoMRmYEQSaGNCoBsTrlYnZLM3w7QNv9s29jkgeEwwpRD4ZNgH7RF6u4BtcxFlgJq6NG_SgGGJ8-ugQ)
-
 **An advanced operating system for modern server, desktop, and embedded platforms which can be found powering everything from the smallest home routers to the world's busiest servers**
 
 ### Metadata
@@ -2200,8 +2096,6 @@ In addition to producing an operating system, FreeBSD has incubated the developm
 
 * Twitter: Please look at our [instructions for applying with FreeBSD](https://gsoc.FreeBSD.org/) which includes lots of details on producing a good proposal that stands a better chance of being accepted.  We recommend that you submit your proposals as early as possible, as that gives us the opportunity to comment on your proposals and allow you to refine them.  We also recommend that you discuss proposals with possible mentors beforehand too in order to make sure your proposal is achievable and worthwhile.
 ## [FreeType](http://freetype.org)
-
-![FreeType](//lh3.googleusercontent.com/K0EHbWQg5L39Thttl7xqXn0DXMGNJ8XNVwEr-qIoFESQf8pJnV1fXtNVhbL3WuuyH3_k7HW-qiPahnQtny3Dwf1FKkP3c837)
 
 **A software library written in C to render fonts.**
 
@@ -2241,8 +2135,6 @@ Counting the above products only, you get more than a _billion_ devices that con
 
 * Twitter: If you are interested in FreeType, please subscribe to the mailing list and introduce yourself, asking any questions you have.  See our GSoC ideas page for suggestions, but feel free to suggest your own projects!
 ## [freifunk](https://freifunk.net)
-
-![freifunk](//lh3.googleusercontent.com/F_FWRzu838WIU-EDb-Teq9Y7OxaJSmqqIsl_aWHUQba98QrinymiU6iwPJYKSYcw5ghNPwVN6Ln3jsukc5Cam4gizRflkw)
 
 **freifunk is part of a global movement for free infrastructure. Our vision is the democratization of media with free networks. Wireless communities implement this idea worldwide.**
 
@@ -2343,8 +2235,6 @@ After GSoC
 Do you have plans to continue with your project within the freifunk community after GSoC?
 ## [Genes, Genomes and Variation](http://www.ensembl.org)
 
-![Genes, Genomes and Variation](//lh3.googleusercontent.com/YzzBiWTFmmsUCpU-IR7Wfh4eT-QX3LorMIF6vCdrWDWeh5s5hTxLL8khaeabQ0EPqCzWwEFaTvhQ9GUJIrEOpehy5t7o06Kf)
-
 **The Ensembl project maintains and updates databases that annotate a wide number of genome sequences and distributes them freely to the worldwide research community.**
 
 ### Metadata
@@ -2377,8 +2267,6 @@ Take some time to learn more about us: you can click around the Ensembl Genome B
 
 Are you ready, excited and committed? The ball is now in your court! You will need to apply via Google Summer of Code's portal and design a proposal. Below are some ideas to get you started. Once again, these are only suggestions, all creative ideas are welcome.
 ## [GENIVI Alliance](https://www.genivi.org/)
-
-![GENIVI Alliance](//lh3.googleusercontent.com/taPFqskhMj_rJn9xWUUXKEom8ELYUqi4z2pRAV18lEtqSGkpxwEd3F_k6YnzJ3fqula2kzna55PAI4poqa0DrZlBxVdmn48j)
 
 **The GENIVI Alliance provides an open connectivity platform that accelerates innovative solutions based on open software for In-Vehicle Infotainment (IVI) systems.**
 
@@ -2419,8 +2307,6 @@ Hang out on our IRC channel as much as possible: #automotive on irc.freenode.net
 
 IRC and mailing-lista are also good place for seeking help if/when you get into trouble with anything.
 ## [Gentoo Foundation](https://gentoo.org/)
-
-![Gentoo Foundation](//lh3.googleusercontent.com/7-s-sxVunGteZ1VG-4K5_lcI4utcm1NBKHpIAIrpsinFyk33AQeqx3xAwz1uYzbV4CBdvJsNpRZYrsm8i6CFp6224pD5bg0)
 
 **A flexible, source-based Linux distribution.**
 
@@ -2469,8 +2355,6 @@ We highly recommend having some initial discussion with one of the mentors about
 More information at: https://wiki.gentoo.org/wiki/Google_Summer_of_Code/2018/Application_Guidelines
 ## [GFOSS - Open Technologies Alliance](http://gfoss.eu)
 
-![GFOSS - Open Technologies Alliance](//lh3.googleusercontent.com/eRbjP2ZIaYQTAggCzFq7BvjGgRJv_Q-r1SHXtrvIUrbrW2cBEEv50BvGRacxFbVwatTi4VUJXWNosRVO5irdumKcy8GdAA)
-
 **GFOSS – Open Technologies Alliance  is a non-profit organization, with 35 Universities and Research Centers as its shareholders. Our main goal is to promote Openness.**
 
 ### Metadata
@@ -2508,8 +2392,6 @@ GFOSS – Open Technologies Alliance  is a platform for Open Standards, Free Sof
 We also encourage students to subscribe to our developers mailing list (opensource-devs@ellak.gr) and contact the admins or the mentors with any questions they might have regarding their application, their proposed ideas or the project they are interested in contributing.
 ## [Git](http://git-scm.com)
 
-![Git](//lh3.googleusercontent.com/X25gDlJh7PQxLGAirqBlLlUCo6GJ1guOD_W7XZG_G8DW3pndEskDdd6yDc-h1gtDedCRdUa4DItofZojsWoTusB3D9PLvrk)
-
 **Git is the most widely-used revision control system in Open Source. It is a distributed system with an emphasis on speed, data integrity, and support for many workflows.**
 
 ### Metadata
@@ -2540,8 +2422,6 @@ projects related to [libgit2](http://libgit2.github.io/). Other git-based softwa
 The primary way to contact the Git community is through the Git mailing list git@vger.kernel.org. Please discuss your application on this list.
 ## [Global Alliance for Genomics and Health](http://ga4gh.org)
 
-![Global Alliance for Genomics and Health](//lh3.googleusercontent.com/JhhDbXP-zktUoddrD0VYmLDsrrGv_yslcnG3Q_LyIWjmrRIJdhqOPR98r1_eZts3Lhjc2KD3FtNQGSs7fDo0oAI1rMyypa7t)
-
 **The Global Alliance for Genomics and Health (GA4GH) is a policy-framing and technical standards-setting organization, seeking to enable responsible genomic data sharing.**
 
 ### Metadata
@@ -2566,8 +2446,6 @@ The Global Alliance for Genomics and Health was formed to help accelerate the po
 
 * Twitter: https://docs.google.com/document/d/1P_SvaCDl7OHqOeBJP_0kxQR4OhF5PW2Fm6MZlS0HBeE/edit?usp=sharing
 ## [GNOME](https://www.gnome.org/)
-
-![GNOME](//lh3.googleusercontent.com/PuUTd0LqAyd7EduWdbN5HFzAlSw2GGU5HR8Mu3xu2BTbWhuyHK0rDrGnxHdHWiK6mbM1yqUuB5kG8k3L_S91DVaDR6rh3pw)
 
 **GNOME offers an easy to understand desktop and applications for your GNU/Linux computer.**
 
@@ -2611,8 +2489,6 @@ Our software is translated into many languages and comes with built in accessibi
 * Twitter: Read our instructions and requirements to aplpy for GNOME at https://wiki.gnome.org/Outreach/SummerOfCode/Students
 ## [GNSS-SDR](http://gnss-sdr.org/)
 
-![GNSS-SDR](//lh3.googleusercontent.com/Unsxtmm85To4Q3RItnMY3GLcKHCd4v1MzqaTktEUMF-i8ZcCYfee5nWf9JCxLm-S_tROnNj10euUb9UU3gUsnTloEQbdEiw7)
-
 **GNSS-SDR is a GNSS software receiver, written in C++, that is able to work from raw signal samples and performs all the signal processing until the Position-Velocity-Time solution.**
 
 ### Metadata
@@ -2642,8 +2518,6 @@ You might submit a proposal following the guidelines below, or you might want to
 
 Your proposal should include the following: your project proposal, why you would like to execute on this particular project, and the reason you are the best individual to do so. Your proposal should also include details of your academic, industry, and/or open source development experience, and other details as you see fit. An explanation of your development methodology and schedule is a good idea, as well. It is always helpful to include your contact information, as it will not be automatically shared with your would-be mentors as part of the proposal process.
 ## [GNU Compiler Collection (GCC)](https://gcc.gnu.org/)
-
-![GNU Compiler Collection (GCC)](//lh3.googleusercontent.com/B3rAj_IWr7O__6WK3uMG6D_0rT8CDfSU9BtiJDmDajnrsla2uhUmOeU9frT1lbuZSLFHlBfg-rNLtNhPcIf7gWNSPWmFymc)
 
 **The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages and a variety of native and cross targets.**
 
@@ -2682,8 +2556,6 @@ Last but not least, the GCC is owned by the Free Software Foundation (FSF), as s
   - https://gcc.gnu.org/wiki/GettingStarted
 ## [GNU Octave](https://www.octave.org)
 
-![GNU Octave](//lh3.googleusercontent.com/SvhGJLJtJ06dVymC5Hj1gP1-S4VsqUn00bSPhUuiqDwV_S_81KPQciVL0FNx59Ly4jS_11rEMOQaQHH8roDEHMpZqvpipQ)
-
 **GNU Octave is a high-level interpreted language, primarily intended for numerical computations.**
 
 ### Metadata
@@ -2716,8 +2588,6 @@ Familiarize yourself with using and building Octave, and with any other skills n
 For more details, please see the [Octave Wiki](https://wiki.octave.org/Summer_of_Code_Project_Ideas#Steps_Toward_a_Successful_Application).
 ## [GNU Project](https://www.gnu.org)
 
-![GNU Project](//lh3.googleusercontent.com/h4caH1RfbOJmfoFPToaHhCWKV0hW8zCslUfz44iIGTJgYiMsPxCRUUuZQsIi9KlMhIncIJaLmDVsR54OnyycJFk7UDBhrg4)
-
 **GNU is an operating system that is free software. The development of GNU made it possible to use a computer without software that would trample your freedom.**
 
 ### Metadata
@@ -2740,8 +2610,6 @@ GNU is a Unix-like operating system. That means it is a collection of many progr
 
 * Twitter: All the instructions can be found on the ideas page
 ## [GNU Radio](https://www.gnuradio.org/)
-
-![GNU Radio](//lh3.googleusercontent.com/5OimqqP6jx-cBzmfIjjKC-KBHMpNrEDI4Bp8hs2M7eIsz4scVlUX_u43tK_YqKF64xFbWSxvhm3o4Hwg0OC1OiC8Dx0T1XJ-)
 
 **GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to design, test and implement software radios.**
 
@@ -2773,8 +2641,6 @@ GNU Radio applications can be written in either C++ or Python programming langua
 
 * Twitter: Please have a look at our website for detailed [instructions](https://wiki.gnuradio.org/index.php/GSoCStudentInfo) on how to apply as well as pointers to successful proposals from past years that can be used as a template. We try to be as transparent as possible regarding what we want to see in good proposals and how we rate them. Please read the instructions carefully, there are some formalities that must be taken care of or your proposal may be discarded immediately.
 ## [Godot Engine](https://godotengine.org)
-
-![Godot Engine](//lh3.googleusercontent.com/Wq6TTfvasbLm5j99jDj6xMcvc09JpogdyV5vgvF7VojaQGKaT917YkrJIFGzGZ9exKT16yyDW1HJP2f1Kvqf-1dR8UKcNAo)
 
 **With a feature-packed and cross-platform 2D and 3D editor, Godot is today's most mature FOSS game engine with an ever growing worldwide community of contributors and users.**
 
@@ -2813,8 +2679,6 @@ To apply formally, we ask that you send an email to gsoc@godotengine.org with:
 As mentioned, you are really encourage to get in touch with Godot contributors before applying to put all chances on your side. We will not pre-approve proposals before a formal application following the GSoC timeline and rules, but we can give our assessment of the relevance of your ideas for the project, and their concordance with its philosophy and roadmap. The preferred channel to discuss with developers is [#godotengine-devel](http://webchat.freenode.net/?channels=#godotengine-devel) on the Freenode IRC network.
 ## [gRPC](https://grpc.io)
 
-![gRPC](//lh3.googleusercontent.com/UHoceXfOuM_hwsxmxzKGyEfgd-hIGKy7Qe57l0_N7a4sXRdt0iNn4mN2txyfdgmQ-LP3vcFzDbmGaZGAP1N3AJB0dXC2Ew)
-
 **gRPC - A high performance, open-source universal RPC framework**
 
 ### Metadata
@@ -2841,8 +2705,6 @@ gRPC is a modern open source high performance RPC framework that can run in any 
 
 We want gRPC to be the universal protocol for all computing platforms and paradigms, so while these are our ideas of what we think would make good projects for the summer, we’re eager to hear your ideas and proposals as well. Try us out and get to know the gRPC code and team!
 ## [Haiku](http://www.haiku-os.org)
-
-![Haiku](//lh3.googleusercontent.com/iefEfOExFl_TAepM4khbFMVgoL_2zqXyw74cgb8XQQT_HI4F1MegKx3I2AtI19v1ljRRyXZ9n2JoCcWIBkbZT5tHW9PCQjg)
 
 **Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful operating system.**
 
@@ -2919,8 +2781,6 @@ Timeline.
 What do you expect Haiku's mentors to help you with?
 ## [Haskell.org](http://haskell.org)
 
-![Haskell.org](//lh3.googleusercontent.com/R69vxlOjPB5z8Peu1_qCHLUltzlE3M9SMA_yu5sV7lopKUWXk084ZkGxCCueGDqOQDcq6Je2dK42LziUGkplG8Rj44-pW_c)
-
 **Haskell is an advanced, purely functional programming language. It boasts a strong type system with type inference. It compiles to fast native code with a concurrent runtime.**
 
 ### Metadata
@@ -2967,8 +2827,6 @@ From our side, when evaluating the student applications it is crucial that the a
 We also suggest adding some more information about the student's experience and education (if any), even if this relates to another programming language or technology.
 ## [Homebrew](https://brew.sh)
 
-![Homebrew](//lh3.googleusercontent.com/XJPbUlkrCUn2BU_lqC0vw3kxvRe8BByAAgVZxHOmHEZZ0C1iKxtKJ2ZHJPQC_vMULWvP35Dus-bc169msq9tBRIFnvZQ_Y0)
-
 **Homebrew is an open source, console package manager for macOS.**
 
 ### Metadata
@@ -2992,8 +2850,6 @@ Homebrew is an open source, console package manager for macOS. It's used by mill
 
 * Twitter: Follow the instructions here: https://github.com/Homebrew/Outreachy-and-Google-Summer-of-Code
 ## [INCF](http://incf.org/)
-
-![INCF](//lh3.googleusercontent.com/E5iLl4_Tg2i1SSASg9cMB_yY1xwyQN6WfFuAs76mIDKvbk6zathfoH8syV4VYdFc31mS9ys7IsiscRS07M7yWgQ4-185UmU)
 
 **INCF coordinates scientific community activity to enable the integration of neuroscience data &
 knowledge worldwide, and catalyze insights into brain function in health and disease**
@@ -3057,8 +2913,6 @@ Past experience
 CV
 ## [Inclusive Design Institute](http://inclusivedesign.ca)
 
-![Inclusive Design Institute](//lh3.googleusercontent.com/sc5rP6BsBQwT6XAsFs5I8jnN_bUEuzTBgMk0aNqWzGmMYfz322fSh5z8KoUVsC9UAIuZ-cXAesaYZ_sFfKApY24j6SpV10A3)
-
 **The IDI is a generative hub of applied research that addresses the challenge of designing our ICT systems so that they consider the full range of human diversity.**
 
 ### Metadata
@@ -3101,8 +2955,6 @@ Project Outcome (What would you expect to be the final outcome of your project)
 3.     What is your GitHub account?
 4.     Will you be working on your own, or will you have partners?
 ## [Inkscape](https://www.inkscape.org/)
-
-![Inkscape](//lh3.googleusercontent.com/TwayZNynOu1gYP8hLqrR1ozXFL4bfMIcutZRRLfX7El4ppu4DTZg02PUNNwMGJlSPOXvEU7AuwijjNZD0gC03GCl5afPBw)
 
 **An Open Source vector graphics editor, with capabilities similar to Illustrator, CorelDraw, or Xara X, using the W3C standard Scalable Vector Graphics (SVG) file format.**
 
@@ -3153,8 +3005,6 @@ Thanks for considering Inkscape for your summer of code!  To help us find a good
 - Pick 2 [bugs](https://bugs.launchpad.net/inkscape/) (or add new ones). Create & upload patches for them; make sure we can connect these to your GSoC application.
 - Prepare a detailed plan (with timetable) of the work you propose to do.
 ## [Inria Foundation](https://www.sofa-framework.org/)
-
-![Inria Foundation](//lh3.googleusercontent.com/_dPOjpUrijmVs_y_dun_Wuf5uaXQs53BzWuAv0JwKiX_C8TTJ61MDkWMjQur326Y3fiBufp5SHvw9yWEsyu9jV5KHJWfdmc)
 
 **This project aims at interfacing two C++ libraries for medical simulation in order to aim at highly realistic modeling of the human body**
 
@@ -3231,8 +3081,6 @@ Hugo Talbot
 ![Looking forward to working with you!](https://www.sofa-framework.org/wp-content/uploads/2017/06/Services-2.png)
 ## [Institute for Artificial Intelligence](http://ai.uni-bremen.de/)
 
-![Institute for Artificial Intelligence](//lh3.googleusercontent.com/rFm-Vagm1OaUcioy9RHBVq-T3POHZMYL6s8eHeFqzMU91bJ01Cpap5aVE-KdQwaanCZUDma0YmkqHrv77sH_gjxXWn_j0w)
-
 **The Institute for Artificial Intelligence is part of the Faculty of Computer Science and member of the Center for Computing and Communication Technologies at University of Bremen.**
 
 ### Metadata
@@ -3256,8 +3104,6 @@ The Institute for Artificial Intelligence (IAI) at the University of Bremen, Ger
 
 * Twitter: **Please read the up to date instructions from our [application page](http://ai.uni-bremen.de/teaching/gsoc2018)**. Every project will have a small test/tutorial that have to be fulfilled in order to consider the application of the student. We do this in order to avoid copy-paste applications from students. The tutorials/tests are relatively simple and only require students proof that they managed to install and the required software and write a possible 'Hello World' code snippet.
 ## [Intel Media And Audio For Linux](https://01.org/linuxmedia)
-
-![Intel Media And Audio For Linux](//lh3.googleusercontent.com/UXbyn2SdWegPlFQlEmBcskvD6upBUg0ELUnU1FQiKEst56nAKYhKrJJ21nTMNnp6eKfFfOcG3Mt7YPC3hfQIw4-tuZyqIQ)
 
 **This family of media software, including libVA, VAAPI-Intel-Driver, GStreamer-vaapi, GStreamer-MediaSDK, libyami and libxcam.**
 
@@ -3293,8 +3139,6 @@ We prefer to have the technical details in each proposal than some "due date sch
 
 Students can come up with their own ideas too.
 ## [InterMine](http://intermine.org/)
-
-![InterMine](//lh3.googleusercontent.com/rTp4Mwh74BD6J_LxJ9DNVQUK9i71S3-F4bZP1mLUhc5YDeCd0GTJIGkgboUoVDSwD3cFW6w7AB0YlD5cZ8UOCXx-UKx90Q)
 
 **InterMine is an open source biological data warehouse, providing a web-based user interface, sophisticated search and analysis tools and APIs to access the data programmatically.**
 
@@ -3341,8 +3185,6 @@ Code you write for InterMine can have a large impact - since there are dozens of
 If you're comfortable enough with InterMine's APIs (or data, or codebase) to propose your own project idea, we'd love to discuss it with you! Please drop an email to info@intermine.org to sound out your idea.
 ## [Internet Archive](http://www.archive.org)
 
-![Internet Archive](//lh3.googleusercontent.com/Adu49H_Uub1z65XykkqzvrSbGVSrzzkkiMhLLnCihSd7a7g4sPYbV3y3nwhzfnRmnWn6ZAQufoOQlpQA4glqL9vp4WIwsUQ)
-
 **We are a non-profit digital library based in San Francisco.  We are best known for being the home for the Wayback Machine (web.archive.org)**
 
 ### Metadata
@@ -3366,8 +3208,6 @@ he Internet Archive, a 501(c)(3) non-profit, is building a digital library of In
 
 * Twitter: Send email to mark@archive.org
 ## [Internet Systems Consortium](http://www.isc.org)
-
-![Internet Systems Consortium](//lh3.googleusercontent.com/9hwuQ1ElP5Lue5wSunouMgoUcG1PmbsCIQmf6BExDKoo2A1sqKJKPGQaVUK7L2a68-L3yNiT2k9WwF5zFBYZR-Qs6jeAkg)
 
 **ISC develops and maintains quality open source and services to support the Internet infrastructure.**
 
@@ -3409,8 +3249,6 @@ Kea is written in C++11. The Kea project uses Google test, Google benchmarks, pr
 If you join this project, you will learn how to create professional-quality code: we do rigorous code reviews, require unit tests, written requirements and user and developer documentation.
 ## [JBoss Community](http://www.jboss.org/)
 
-![JBoss Community](//lh3.googleusercontent.com/h5RpU_3VoswI0uI4Ke3eoNVm0UaMDIsdNBavNjJFhyLfDhaA1KvgZOPhG12uGsEuaG0fklmiZd6E8A4meKhFwMegdPXo971O)
-
 **JBoss Community is a community of open source projects primarily written in Java.**
 
 ### Metadata
@@ -3441,8 +3279,6 @@ It will be good for you if you start interacting with the project community and 
 
 Some projects may not want to accept students that did not interact with the potential mentors and the project before. It may even be required so solve a task before being considered.
 ## [JdeRobot - Universidad Rey Juan Carlos](http://jderobot.org)
-
-![JdeRobot - Universidad Rey Juan Carlos](//lh3.googleusercontent.com/6FSFjgdnmU31E2Ppx2xn8qYaKRFepFD31zJ7sMECmyg4el2CXZHbj-_Yryrz4usHUHCI-yiaUGwe6dRnP9ZBgY3KRqEGHGc)
 
 **JdeRobot is a software development framework for Robotics and Computer
 Vision applications. It is ROS friendly, uses Python, C++, JS. Includes tools and a robotics teaching suite**
@@ -3512,8 +3348,6 @@ What is your School and degree?
 Would your application contribute to your ongoing studies/degree? If so, how?
 ## [Jenkins project](https://jenkins.io/)
 
-![Jenkins project](//lh3.googleusercontent.com/eJf3hJwreLfkHLHfspVodFdwrL4_X-K9nBCAPJ2ZALmuHyQXxxLJHjUCMLTrQPp-ZypSA92C1MZuw8KB4l0eGYQXoxW9Nxg)
-
 **Jenkins is the open source automation server. Built primarily in Java, it provides hundreds of plugins to support building, testing, deploying and automating virtually any project.**
 
 ### Metadata
@@ -3544,8 +3378,6 @@ This year we invite students to join the Jenkins community and to work together 
 Before submitting please go through the page (including the expectations section) and through the [Student guide](https://google.github.io/gsocguides/student/). Participating in Google Summer of Code is a serious commitment requiring an almost full-time dedication over several months. If it may overlap with your study and other commitments, we recommend to think twice before applying.
 If you have any questions about the application process, please feel free to contact us via the “jenkinsci-gsoc-orgs@googlegroups.com” mailing list.
 ## [JGraphT](http://jgrapht.org/)
-
-![JGraphT](//lh3.googleusercontent.com/4AiEtr6HrJ87OyL-oatAT8Bbw1_C06Q7XPF8416y-QXcJCICp8eDwRBjnv23iKJeCf012vuMvQVsi80PwNKpf5UBa59c_A)
 
 **If you sometimes wake up in a cold sweat from a dream involving a polynomial-time algorithm for deciding graph isomorphism, then this is the project for you!**
 
@@ -3602,8 +3434,6 @@ For larger projects, the work may need to be broken up into a series of pull req
 If you have questions while applying, please contact <admin@jgrapht.org>. Applications will be reviewed by all JGraphT mentors. Our goal is to ensure that all students will be able to successfully complete their projects, and have a valuable learning experience. Consequently, for each application, we will assess how well the student's background prepares him/her for the project.
 ## [Jitsi](https://jitsi.org)
 
-![Jitsi](//lh3.googleusercontent.com/Mkks-mF2tZQKDrIiMOtoDeRa1b6IEl2MCrFX7a2xFlEAsDNThYWIOnLH2XBQhpXyvwia6JrIisnytm4Lut5lRQhqvJWJfXc)
-
 **Jitsi is a set of open-source projects that allows you to easily build and deploy secure videoconferencing solutions.**
 
 ### Metadata
@@ -3637,8 +3467,6 @@ The development of Jitsi started at the University of Strasbourg, France (http:/
 
 * Twitter: The following page provides guidance for students to the Jitsi organization and for the application process in particular: https://jitsi.org/gsoc-2018-application/
 ## [Joomla!](https://www.joomla.org)
-
-![Joomla!](//lh3.googleusercontent.com/vr2sHE1vn53NjQMTEyPDwOV4XMFxRqRGxbUvgeWxOr68GR6tMfu73hg1tckGYU0rv-Io_12GiP0V93Leuzu78mDzKkieeBph)
 
 **Joomla is a free and open source CMS powering over 3.2% of the internet which enables you to build web sites and online apps. Joomla is an object oriented PHP application.**
 
@@ -3701,8 +3529,6 @@ If you are planning to send us a proposal, please make sure to address the follo
 Read more at [Joomla GSoC-18](https://docs.joomla.org/GSOC_2018).
 ## [JSK Robotics Laboratory / The University of Tokyo](http://www.jsk.t.u-tokyo.ac.jp/)
 
-![JSK Robotics Laboratory / The University of Tokyo](//lh3.googleusercontent.com/XQ7aXaQXcV1MRkaScJhI01B2zK7EnieLq3OK49D5VuhWBKqD5Oq6DQUo-IsphHe-IPWuD37T12x1CeQs76YvWvAC7x3SjTGA)
-
 **Research in JSK laboratory is focusing on the fundamental functions and systems for future intelligent robots that will live and work in the daily life field and human society.**
 
 ### Metadata
@@ -3748,8 +3574,6 @@ Research in this laboratory is focusing on the fundamental functions and systems
   - Describe your preparation status on target project in ONE paragraph. Please read 'Propose tips' on the above list.
 ## [KDE Community](https://www.kde.org)
 
-![KDE Community](//lh3.googleusercontent.com/Z1KwbzHB5NIYGB7etJNq9LMmQYyf_Xbl9MmEo96Vh-JkIfdJQDSoQyeBSF3sH9cMQ7cCBLURca9rgV76cFCmh1ashgZrRfw)
-
 **The KDE community produces Free and Open Source Software and brings together artists, designers, programmers, translators, users, writers and other contributors from everywhere.**
 
 ### Metadata
@@ -3793,8 +3617,6 @@ Show that you understand the problem, have a solution, have broken it down into 
 * Prior contributions are required; list your commits. 
 * Tell us if you are submitting proposals to other organizations, and whether or not you would choose KDE if given the choice.
 ## [Kiwix](http://www.kiwix.org/)
-
-![Kiwix](//lh3.googleusercontent.com/VXhrMpNEvBCyUaKuCRtQQngddrYs7RQHgk-dlALxgcn-4tNxSLfAgDlj21YYsT5yUgBYKNVu-ceFgX0HIOkb_WfMyPI6og)
 
 **Kiwix brings internet content to people without internet access. With it, anyone is able to download a copy of Wikipedia and store it on their phone or computer.**
 
@@ -3842,8 +3664,6 @@ Get in contact with us via email or IRC, so we can help you fill out the followi
 # How have you decided to communicate with your mentors and how often?
 # Any other information that you think would be beneficial to your application?
 ## [LabLua](http://www.lua.inf.puc-rio.br)
-
-![LabLua](//lh3.googleusercontent.com/hF4pMh0yVdKGdf_5Dbpmhn61-Uk3T4iM-npgUK4VG1nHmTTaRXNwSZnf_ZdE8WdgGKpWn6P1nASwVLyQyn0bWufQs-dYctM)
 
 **LabLua is a programming languages research lab, with emphasis on the Lua language and reactive programming.**
 
@@ -3893,8 +3713,6 @@ Check out the difficulty level on each proposed project. All projects are design
 
 Ready? Use our [GSoC Application Questionnaire](http://www.lua.inf.puc-rio.br/gsoc/apply.html) as a template for your application, filling in all the answers!
 ## [languagetool.org](https://languagetool.org)
-
-![languagetool.org](//lh3.googleusercontent.com/CPpkJMcdc1eqEOFgZJvynGCeeuhxqv27U_Q7ag1i16Qiy9yqcZ1AM1xOjrKrSHs5YGchUnQm_BRDKhdFJdUTrZlKK39owA)
 
 **LanguageTool is a multi-language proofreading tool. It can be used on the web, via HTTP API, or as a Java API.**
 
@@ -3950,8 +3768,6 @@ LanguageTool is also an end user application, and users want LanguageTool to be 
 In any case, we expect you to have a close look at our ideas list at http://wiki.languagetool.org/missing-features and check out the existing code at https://github.com/languagetool-org/. Once you have a better idea of what you'd like to do, please contact us at https://forum.languagetool.org to introduce yourself. We'll try to find a small task for you get started. Or even better, you fix one of the existing bugs and submit a pull request.
 ## [LEAP Encryption Access Project](https://leap.se)
 
-![LEAP Encryption Access Project](//lh3.googleusercontent.com/mFSTc-0kBDxavaRe7oDS5b7Rz8f-b8kleQbgWShrg5F5eta1a0F2FOp3QFKD7DS1KhT7gNO1WkbP5Cr758NtEVYMT4MlJ_jw)
-
 **We make end-to-end encryption widely available and easy to use.**
 
 ### Metadata
@@ -3997,8 +3813,6 @@ some tips
 * not everything is code: tell us a bit about yourself and what are your motivations.
 ## [LibreHealth](http://librehealth.io/)
 
-![LibreHealth](//lh3.googleusercontent.com/OV9EnIU9isyNHKoT6yGkq-IFVfhnaaNWQpfUydKUXsRoAzycG6ivWFXzHFC-763nnfo28-I1B9zycvkNXO-nYDjyz5MFyw)
-
 **LibreHealth is a worldwide ecosystem of open source Health IT innovation, and is a place where people can come together to build tools that enhance the quality of healthcare.**
 
 ### Metadata
@@ -4027,8 +3841,6 @@ Our GSoC student projects will address real-life needs of our projects to help i
 
 * Twitter: You must have made a non-trivial contribution prior to submitting your proposal to us.
 ## [LibreOffice](https://www.libreoffice.org/)
-
-![LibreOffice](//lh3.googleusercontent.com/O95m5reO6o-koX6olazgJEd18frr4_ZCBENbFopAjRKdSUXj3ldlG5OOBnFk5QI-Dzt7_0zFP3Mqx-RUOiwJINig1rn_Vcc)
 
 **LibreOffice is a lively and diverse community, delivering a full-featured cross-platform office suite. We value new contributors, just as we prize Open Source and Open Standards.**
 
@@ -4069,8 +3881,6 @@ Explain what you want to achieve. Provide detailed informations on the project y
 Problems that can not be resolved on our public developer mailing list or problems containing privacy relevant topics can also be sent to our [mentoring@documentfoundation.org](mailto:mentoring@documentfoundation.org) address.
 ## [libvirt](https://libvirt.org/)
 
-![libvirt](//lh3.googleusercontent.com/ff9qJ1j-C3hcEF1iXsLljvRaqI09fny6pyH22GH5YpMJQmfVcdDBLLBv3Mqolu3ItL34S6HwLYnMLvPjiCq3AzyLgsPMga0)
-
 **Libvirt is a library and toolkit providing abstraction for various hypervisors. It can be used from a number of
 languages.**
 
@@ -4109,8 +3919,6 @@ Including a realistic (even rough) schedule of the project will help us pick you
 In order to get used to how the libvirt project works, we require all applicants to get a patch pushed for libvirt.
 ## [LLVM Compiler Infrastructure](http://llvm.org)
 
-![LLVM Compiler Infrastructure](//lh3.googleusercontent.com/DBWjJG0U8zHLJxff5uZpE36V0p7XuSkaE8RWMYUeabVcmP5cyPlviIKCW3-rNCp_9hD37sEOT6Qks4YgHhGLiWLDD1cnVlCu)
-
 **The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.**
 
 ### Metadata
@@ -4145,8 +3953,6 @@ In addition to official subprojects of LLVM, there are a broad variety of other 
 
 * Twitter: We strongly suggest each proposal to be discussed first at the corresponding sub-project mailing list (e.g. llvm-dev, cfe-dev, etc.) Prior patch submission to LLVM (or its subprojects) is recommended, but not strictly required. Please also indicate your prior knowledge with LLVM, whether you already contributed to it, etc.
 ## [LuaRocks](http://luarocks.org)
-
-![LuaRocks](//lh3.googleusercontent.com/4TCQP_aUIneBcSiy19XwScgHrkE4o2qE1UXwck8e0prUVD0N3jaSfYfFbMEu1rsJEW5QKZN47FPV8CrSFClVVf4aKmiXqA)
 
 **LuaRocks is the package manager for Lua, a tiny yet powerful language used anywhere from embedded systems to MMORPGs. LuaRocks turbo-charges Lua with packages for every field!**
 
@@ -4195,8 +4001,6 @@ Good luck!
 http://luarocks.github.io/luarocks/gsoc/apply2018.html
 ## [MariaDB Foundation](https://mariadb.org)
 
-![MariaDB Foundation](//lh3.googleusercontent.com/vCITUcGND7tjyrUPfLwFjZQfCuWVxmfKCY4e7OyH1N1pGWBPXHhEskeaigOoQiXx5Z7Bm-LywNVzCFHsdhXYvspJ4aeiaXvc)
-
 **MariaDB is a default MySQL replacement in many Linux distributions. It offers many feature enhancements including new storage engines, advanced optimizations, and other features.**
 
 ### Metadata
@@ -4230,8 +4034,6 @@ Your proposal should contain at least those parts:
 Note, you will almost certainly write a better proposal and will improve your chance of being accepted if you'll discuss your project first on the mailing list or the irc.
 After you've filed the proposal, you might receive a reply from a mentor with a test assignment. It will be a small task related to MariaDB code base that will allow you to prove your abilities in C/C++ and setting up a development environment
 ## [Matrix.org](https://matrix.org)
-
-![Matrix.org](//lh3.googleusercontent.com/lj4cCPcRF75WxmtxvnsuTVQ9DqfoGWVHiUuVgV_RIQ11qa4xywfxjEjHxNimWmRkdWYp6HI-CG-kDXcvunZ5ARgRHP1xgg)
 
 **Matrix is an open protocol and network for encrypted, decentralised real-time communication. We release open source clients, SDKs, servers and bridges as well as maintain the spec!**
 
@@ -4282,8 +4084,6 @@ We then suggest thoroughly reading through our [GSoC Ideas List](https://github.
 For more details on how to write the proposal itself, please see https://github.com/matrix-org/GSoC/blob/master/README.md.
 ## [MetaBrainz Foundation Inc.](https://metabrainz.org)
 
-![MetaBrainz Foundation Inc.](//lh3.googleusercontent.com/xvZY_s1qERltlQwlbBiCkjFwMV-jwDJVT6bEipJsbrl48tJLQG2veTrbMLIwCyvyo930AAoMNyxqXo9YIY_yW9IsQqD0aQ)
-
 **The MetaBrainz Foundation is a non-profit that believes in free, open access to data. It builds community maintained databases for the public domain or Creative Commons licenses.**
 
 ### Metadata
@@ -4316,8 +4116,6 @@ Do you have Github , Twitter or any other public profiles you think we might fin
 Have you contributed to other Open Source projects or created projects on your own time? If so, which projects and can we see some of your code?
 Do you plan to have a job or study during the summer in conjunction with Summer of Code?
 ## [Metasploit](https://metasploit.com)
-
-![Metasploit](//lh3.googleusercontent.com/FUXX2UQkfp2LI-ztXZFi2Id_BIbdi0rWWzj6JERVRFI2-lqaXn2fBFkdlVKCNjT4hAXfK8cHl68RYbIfJfyK22tiZlxPfv0)
 
 **Open Source framework for exploit development and penetration testing**
 
@@ -4370,8 +4168,6 @@ What other projects have you worked on before?
 Fill in the details. What exactly do you want to accomplish?
 ## [Mixxx DJ Software](https://www.mixxx.org/)
 
-![Mixxx DJ Software](//lh3.googleusercontent.com/eN8-whxhMhYCR_UJHv89usBBIYP6EfbcVznsxTIgHt07me96vU5QnBDJbA64ZSm_8V_y30M7InNIx11keQMaY86g0mxRTLU)
-
 **Mixxx gives you everything you need to perform live DJ mixes.**
 
 ### Metadata
@@ -4404,8 +4200,6 @@ Working on Mixxx is a great way to get involved in open-source, learn valuable s
 * Twitter: https://www.mixxx.org/wiki/doku.php/gsocadvice
 ## [mlpack](http://www.mlpack.org/)
 
-![mlpack](//lh3.googleusercontent.com/EdpxaoTqWrgWQ0ysJV2uIqqr2A8UVIx_R2baIQtCxo7l_XeZYZyMGb3e8uYHPOon7Y14jHIEDgh7sp76ynHmealKJapKTzw)
-
 **mlpack is a C++ machine learning library with emphasis on scalability, speed, and ease-of-use.**
 
 ### Metadata
@@ -4435,8 +4229,6 @@ mlpack bindings for R are provided by the RcppMLPACK project.
 
 * Twitter: https://github.com/mlpack/mlpack/wiki/Google-Summer-of-Code-Application-Guide
 ## [Mobile Robot Programming Toolkit (MRPT)](https://www.mrpt.org)
-
-![Mobile Robot Programming Toolkit (MRPT)](//lh3.googleusercontent.com/VZgvfqW31Q3EctVEPysaswKWlrZQjWs9Tnmkd8q4B-r5913jplXaw6r58ULBC024nFs0zHBMgIyzTN4rITT_MiQEcwMhga_R)
 
 **MRPT provides portable and well-tested applications and C++ libraries covering data structures and algorithms employed in common areas of mobile robotics**
 
@@ -4489,8 +4281,6 @@ MRPT is mentioned in [hundreds](http://www.mrpt.org/category/publications/) of s
 Rules say that all communications between students and mentors **should** happen in public: please, use the MRPT mailing list or GitHub comments in pull-requests or commits whenever possible, before and during GSoC.
 ## [Moodle](https://moodle.org/)
 
-![Moodle](//lh3.googleusercontent.com/Wd38hGGxnRk_AE8zLZErsObI3kw6At56_NGdSVZKwTfHqLZQZCybcHEksNWLtIUzxM-6cAJOwcllWBk5ZkmHefiWaSIyAg)
-
 **Moodle is a learning management system used for blended learning, distance education and other e-learning projects in schools, universities, workplaces and other sectors.**
 
 ### Metadata
@@ -4515,8 +4305,6 @@ Moodle is widely used around the world by universities, schools, companies, and 
 
 * Twitter: https://docs.moodle.org/dev/Applying_to_work_with_Moodle_for_GSOC
 ## [MovingBlocks](http://terasology.org)
-
-![MovingBlocks](//lh3.googleusercontent.com/yo_K66LOna5NiriW6abGEwpJSJn0ILDs_R_ZSBaCqv1N6rLiXgEhUK16-IPh2f3RPmRlsEc-1QwN7PjNIvYKsBhuR9YwWw)
 
 **MovingBlocks is a group of open source enthusiasts working on a voxel game engine inspired by Minecraft, Dwarf Fortress, Dungeon Keeper, and more.**
 
@@ -4573,8 +4361,6 @@ For some further ideas you can search the web for past GSOC proposals and/or che
 * https://skaldarnar.github.io/blog/2017/03/29/building-a-timeline.html
 ## [Mozilla](https://mozilla.org)
 
-![Mozilla](//lh3.googleusercontent.com/DlMf46pIN7yBoNGmGG4z45N1eIf5L7QFDj99V4TgDe2h13S64XM363nYx9Xq59REqQ0fURgzdwng4XP2d6eYx40aVPQb_ZVB)
-
 **Come and help us build a better Internet.**
 
 ### Metadata
@@ -4607,8 +4393,6 @@ If you're interested in participating in Mozilla's GSoC program you can choose f
 Thank you.
 ## [MuseScore](https://musescore.org)
 
-![MuseScore](//lh3.googleusercontent.com/NxECs9k5nZwknABQy7m_KkdJADOGaezVMI4_xXTC0Sljdnn4EzFrebqHm6Nu2rH6Rwguws7XkU4VnHP870WTGccvL5Iti2Gg)
-
 **Free and open-source music notation software**
 
 ### Metadata
@@ -4637,8 +4421,6 @@ Learn all about MuseScore on https://musescore.org
 
 * Twitter: https://musescore.org/en/handbook/steps-toward-successful-application
 ## [National Resource for Network Biology (NRNB)](http://www.nrnb.org/gsoc.html)
-
-![National Resource for Network Biology (NRNB)](//lh3.googleusercontent.com/38WHipWSy-AqM6up-qFtWyISAXcyHXWaFnP3F22R7TFy3Jo96lzifyWycjFBadmvd5kzhLXQTHBeEkc1IQ6ecpKk29jKaA)
 
 **The National Resource for Network Biology (NRNB) organizes the development of free, open source software to enable network-based visualization, analysis, and biomedical discovery.**
 
@@ -4693,8 +4475,6 @@ Find out more about the software projects being developed in coordination with N
 * How many hours per week do have available for a summer project?
 ## [Neovim](https://neovim.io/)
 
-![Neovim](//lh3.googleusercontent.com/udmTZuJpl1NZxCijlG_bxbibb6rvqW1tiNfP4oyhU-1JltGSZkUDSsc_hOJXRQcvOp8MjLURlD3AAkLntP3pb70PImUvQcIx)
-
 **Neovim is a refactor of the Vim text editor engineered to encourage new features, advanced UIs, and powerful extensions.**
 
 ### Metadata
@@ -4738,8 +4518,6 @@ Prerequisites:
 - Lua knowledge is a bonus
 ## [Netfilter project](http://www.netfilter.org)
 
-![Netfilter project](//lh3.googleusercontent.com/eIRY-YqYoaM-9SLuJlNrWrjodWJ3SgflqGeobM14nAjt9KZ-fVqWKmRAw2-E4zK_lGZYeJgJ37R3b8AE3zoLci4gejDHaw)
-
 **Netfilter is the FOSS software community-driven project, launched in 1998, that provides firewalling tools for the GNU/Linux operating system.**
 
 ### Metadata
@@ -4763,8 +4541,6 @@ Software inside the Netfilter framework enables packet filtering, network addres
 
 * Twitter: Described by http://people.netfilter.org/pablo/nf-ideas-2018.txt
 ## [NumFOCUS](https://www.numfocus.org)
-
-![NumFOCUS](//lh3.googleusercontent.com/HVjtQ2I4zfHth4wsGMFWynoFYktTBGviap7IKNbbXqj_jUjs0xBKayi8mvVv4gYe3g3wstalV3dG2UdmWSbYMOA0uG84uPw)
 
 **The mission of NumFOCUS is to promote sustainable high-level programming languages, open code development, and reproducible scientific research.**
 
@@ -4806,8 +4582,6 @@ Visit our [page](https://github.com/numfocus/gsoc) for more information.
 * Twitter: For complete instructions have a look at our [github](https://github.com/numfocus/gsoc/blob/master/CONTRIBUTING-students.md) page.
 ## [omegaUp.com](https://omegaup.org/)
 
-![omegaUp.com](//lh3.googleusercontent.com/C-T7W78lGR4ns_hATPKOwIKvp5vCon9icSYHXtqhWCsjpBIpX93nEqeoaLS4H02OcCq4HI0YdsWPPrQY1LegmZiyX4haqQ)
-
 **omegaUp is a non-profit organization aimed to increase the number of talented Software Engineers in Latin America.**
 
 ### Metadata
@@ -4839,8 +4613,6 @@ Tips:
 * Reach out to us if you have questions about how things currently work.
 * Don't be afraid declare open questions in your design. Those are expected and we will work with you to find answers to those later on.
 ## [Open Bioinformatics Foundation](https://www.open-bio.org/wiki/Main_Page)
-
-![Open Bioinformatics Foundation](//lh3.googleusercontent.com/Qb4tmcBsYukuV7FDBE3hYoDRajqiqc5ZqygMFQMF0IRdG84NPpSpo9-BxBC6xkyTLIC_jwuhkd4C-iwJsKqkqT8KCotiCDmK)
 
 **Promoting practice & philosophy of OSS & Open Science in biological research.**
 
@@ -4919,8 +4691,6 @@ Other obligations
 (List any other obligations you may have during the program time, like exams, vacation, moving, etc. Note that GSoC is a full-time job.)
 ## [Open Chemistry](https://openchemistry.org/)
 
-![Open Chemistry](//lh3.googleusercontent.com/BLtUXRdmCUvAfn4DZDP3jZHPuvH8i7O9PEDViyk5m5j-3MM8he2yhaTtxjEix_DNZ-CBahfLVPUTNr6XfyDONaXXss1WGXo)
-
 **Open Chemistry is a collection of open source chemistry tools for the creation, exploration, analysis, and visualization of chemical data.**
 
 ### Metadata
@@ -4944,8 +4714,6 @@ The Open Chemistry project is a collection of open source, cross platform librar
 
 * Twitter: http://wiki.openchemistry.org/Applying_to_GSoC
 ## [Open Data Kit](https://opendatakit.org)
-
-![Open Data Kit](//lh3.googleusercontent.com/S9iU-AjQ_63Vd75jCYxn6EB9vGg-hxubqW85RAuwW1LMIaSjiJKWcIZbQerx01EKtvKcPYwosCfibdCvr1Y4wYcqj6_kVQ)
 
 **Open Data Kit replaces paper surveys with smartphones. It has been used to collect millions of data points for social good in challenging environments around the world.**
 
@@ -4983,8 +4751,6 @@ The ODK ecosystem has several tools that are used to collect data. For GSoC, we 
 
 We also highly encourage you to introduce yourself and to discuss your project idea in the #internships channel on our [Slack](http://slack.opendatakit.org). Please do not contact project mentors directly. For the benefit of the community, it's important that we have conversations out in the open!
 ## [Open Food Facts](https://world.openfoodfacts.org)
-
-![Open Food Facts](//lh3.googleusercontent.com/6MrBcZgWkiSDtFG4ZD4mOzIiveiFdLKctK69qecbBPGBEhU1QtZuJyjDlNtYcOgy7IxBt_9_dHlx-Zmsd75wwLxY2YNGdmM)
 
 **Help people around the globe make better food choices by letting them create an open database of all food and cosmetic products in the world, using their mobile phones.**
 
@@ -5036,8 +4802,6 @@ Food additives, allergens, packaging codes: Open Food Facts helps you make sense
 - Layout a plan of your work during the summer, including: milestones with precise objectives, deliverables, breaks, other school obligations
 ## [Open Roberta Lab](https://www.open-roberta.org/)
 
-![Open Roberta Lab](//lh3.googleusercontent.com/sDfZg9EjH5gY1GfRNGYc2jdzlWUR_q2lDZEmKPh6ZXUpAoFdqdlc95WB0mXW1LEBSCOD1TN-SYGgCIyraYZ9nAUs3luVCl4)
-
 **Open Roberta® Lab provides a visual programming language as well as a simulation for robotics kits. It is designed to help future generations take part in the digital revolution.**
 
 ### Metadata
@@ -5081,8 +4845,6 @@ If you have already committed to an Open Source project, please provide a link t
 Have a look at our list of proposals for GSOC. If you have another good idea, don't hesitate to come up with your own project proposal. Maybe you would like to discuss it with us before you apply, please use our [mailing list](https://groups.google.com/forum/#!forum/open-roberta).
 ## [Open Source Robotics Foundation](https://www.osrfoundation.org/)
 
-![Open Source Robotics Foundation](//lh3.googleusercontent.com/FhUm1cIMJ0mm6xFYTb4QD8b5YdG0Z72w3gqHpTSdqPnbeuoFhwdZJbTQ_yJxS6i4OPXK8azlSf0qyvCg03jdw_PI3AoCfw)
-
 **Our mission is to support the development, distribution, and adoption of open source software for use in robotics research, education, and product development.**
 
 ### Metadata
@@ -5107,8 +4869,6 @@ Open Source Robotics Foundation, Inc. (OSRF) is an independent non-profit organi
 
 * Twitter: https://github.com/osrf/osrf_wiki/wiki/GSoC#application-template-for-students
 ## [Open States](https://openstates.org)
-
-![Open States](//lh3.googleusercontent.com/nu51z6QaV-UJxy3KZ4dVR-huhfj0BKkgVn_TX_aK8yKMlavjYw8QZmNuaH0ALkbz0WYqMkdZPo9y_S7kATGU3cNj3EEQlE4)
 
 **Open States is a collection of tools and APIs that make it possible for people to track and engage with what is happening in their state's capitol.**
 
@@ -5152,8 +4912,6 @@ See https://github.com/openstates/meta/wiki/GSoC-2018-Overview#students for more
 
 Please tag your proposal with an appropriate tag from the ideas page.
 ## [OpenAstronomy](http://www.OpenAstronomy.org)
-
-![OpenAstronomy](//lh3.googleusercontent.com/FL30n87tZ0jG3w7DLl5Fa6oG_PhdKCTXub0TS67vZLet7tMaT-yQM6ePapW43UFLs2nDStR0O8L1DqB0Sod05LnXexh0H2M)
 
 **OpenAstronomy is an umbrella organisation that includes open source projects used by researchers and engineers around the world to better understand the universe.**
 
@@ -5219,8 +4977,6 @@ Learn from previous successful students (available in the sub-orgs wikis), and c
 *Tell us about your plans for holidays during the time of the programme.*
 ## [OpenCensus](http://opencensus.io)
 
-![OpenCensus](//lh3.googleusercontent.com/Ot70FKdFxHaTx52DN6eaFkwlI6RRFmFDSvlCWvT_FzTdP9_opOyQ45VpkohODW777o-QnDR-xqSrIo11H_-U2fkIDf4EGFh1)
-
 **OpenCensus is the open source version of Google’s census library, written based on years of optimization and experience.**
 
 ### Metadata
@@ -5248,8 +5004,6 @@ See our recent blog post: https://opensource.googleblog.com/2018/01/opencensus.h
 * Twitter: We are looking for candidates who can develop OpenCensus. We have a need in almost all supported languages [Java, Go, Python, Node, C++, Ruby, PHP and C#] 
 Interested students should look at existing releases on github here: https://github.com/census-instrumentation and send an email to census-developers@googlegroups.com if interested in joining the project.
 ## [OpenMRS](https://openmrs.org/)
-
-![OpenMRS](//lh3.googleusercontent.com/EJ7vLvAQgTYtEf213LNLThezRCTdu8dPMY2n5X9I_1kNMQdV9pfz9D_GBk1dTv3RSiOsEo6KmKnRbnf1wNMOW3hsAnQ4Og)
 
 **The global OpenMRS community works together to build the world's leading open source enterprise electronic medical record system platform.**
 
@@ -5285,8 +5039,6 @@ Our world continues to be ravaged by a pandemic of epic proportions, as over 40 
 # What is your preferred method of contact and how should we reach you with it? (phone, email, IRC, IM, etc.)
 # Do you have any other commitments during the program?
 ## [OpenSIPS](http://www.opensips.org/)
-
-![OpenSIPS](//lh3.googleusercontent.com/QYE048vwAoYTtv0gKaCZ1WRYuxM4pSRqL_mCGFWtiYLHoDtYG312Bp5rdQn_XowAImNvXE5pveZj_EQXZL66ukSQKaAcaw)
 
 **An Open Source SIP proxy/server for voice, video, IM, presence and any other SIP extensions, used by carriers, telecoms or ITSPs for Class 4 & 5 SIP solutions.**
 
@@ -5344,8 +5096,6 @@ Submit your application.
 * Submit your application on GSoC website.
 ## [OpenStreetMap](http://www.openstreetmap.org/)
 
-![OpenStreetMap](//lh3.googleusercontent.com/2799N29bPZjYwR1pS0dACsRJr3PuKMbSg8LS7GjqeiQap4JiqhDVOYpa-CeBJIJB00pDvhUNX06QcfAct7n4s8DFQs3olfZx)
-
 **At OpenStreetMap, volunteer surveyors gather map data of the whole world, laying the foundations for many awesome apps built on top.**
 
 ### Metadata
@@ -5370,8 +5120,6 @@ OpenStreetMap is a project that creates and distributes free geographic data for
 
 * Twitter: We have had good experiences with students who introduced themselves to our community and their respective mentor in advance. It helps to get the student and mentor know to each other, to know if they can work together and to elaborate on the details expected for a specific project. This also improves the timeline that has to be provided by our students. Depending on the project or mentor, we might request a software prototype or to solve a small exercise to estimate the student's experience level and their ambition to work with us. For the application itself we will publish a template on our wiki page to help the student submit a good application with everything that's needed from our side. More details are published [here](http://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2018#Project_Proposal).
 ## [openSUSE](https://www.opensuse.org/)
-
-![openSUSE](//lh3.googleusercontent.com/viIVis6NBVYlR0ZR9wREXwLLQEu9Lw1gjTUuvIAwYWhIw3gdtCHlv0hYGcrVHu50ylwqbcodakxV7ZcEI_S9pfwbUSuXS_Hq)
 
 **openSUSE is a Free Software project that promotes the use of Linux everywhere. Its focus is distributing Linux operating systems and developing the tools to be able to do that.**
 
@@ -5411,8 +5159,6 @@ The project is controlled by its community and relies on the contributions of in
 
 We recommend to read http://write.flossmanuals.net/gsocstudentguide/writing-a-proposal/
 ## [OpenWISP](http://openwisp.org)
-
-![OpenWISP](//lh3.googleusercontent.com/8TWDMTm6AHMZJdvvsJ4L_bt9r4WehaOa3o_iygorlZc0XhnBWEifLrJtISrNAMiUpUSLoSf3peNulu47pVIt7AAI1dBid3Si)
 
 **OpenWISP is an Open Source solution to build and manage wifi networks: from public wifi services to mesh networks and more.**
 
@@ -5475,8 +5221,6 @@ If we get new business opportunities to build new features, would you be interes
 It's not enough to reply "YES", please explain what is your motivation (eg: gaining experience, tech challenges).
 ## [OpnTec](http://opntec.org)
 
-![OpnTec](//lh3.googleusercontent.com/1Wd-4GNFH3Pb4CcwKiwkVdfFIhcwgEO3XN-RieQBVZ9XzkkdVQFsSb8wiu6VDCEJjXWYRB72QR6ZO1ILpW5NQPrqQLmYnw)
-
 **The Open Event Project offers event managers a platform to organize all kinds of events including concerts, conferences, summits and regular meetups.**
 
 ### Metadata
@@ -5501,8 +5245,6 @@ The Open Event Project offers event managers a platform to organize all kinds of
 
 * Twitter: We are publishing instructions on our website here http://blog.opntec.org/ideas
 ## [Oppia Foundation](https://github.com/oppia/oppia)
-
-![Oppia Foundation](//lh3.googleusercontent.com/uPrh_zcYp8CqY-ZRhss_xilMEfuxv-pHZywKZrdlRR1_3EslMluFLRVKkH1YaBAFCajGlyIYTMrv7XjWPxHFXj12rlAS1fZg)
 
 **We seek to address the problem of inequitable access to universal high-quality, affordable education, especially for struggling students who cannot attend school regularly.**
 
@@ -5542,8 +5284,6 @@ Please take a look at our dedicated GSoC 2018 wiki page [here](https://github.co
 
 Please note that most Oppia work heavily involves AngularJS for frontend development, and Google App Engine with Python 2.7 for backend development. You will also need a GitHub account.
 ## [OSGeo](https://osgeo.org)
-
-![OSGeo](//lh3.googleusercontent.com/YsAUhayPhGjaONNRQxWt33xOrn1gs0GsGBGZ7zeLYlSyQ1c_Xby2cDUtrbD3AxXVRQz11pwnRLVkc_ZEmGUD9ANVKu_aJA)
 
 **OSGeo is a non-profit organization serving as an umbrella organization for the Open Source Geospatial community.**
 
@@ -5604,8 +5344,6 @@ For more information on how to contact potential OSGeo mentors, including an app
 </pre>
 ## [OW2](http://www.ow2.org)
 
-![OW2](//lh3.googleusercontent.com/oH-_Xe40_vadE7pV_QlVDIEk9d9Ig4J6i-1IPRxZP8yfn-X0RRPo7kosBcONjyTw4oec2pCyqT9YoPdMqHzX9lH_v6Xeqr4)
-
 **OW2 is an independent community dedicated to developing open source code infrastructure (middleware, tools and generic applications). OW2 hosts dozens of open source projects.**
 
 ### Metadata
@@ -5645,8 +5383,6 @@ Student instructions:
 If you want to propose a new project, please provide: Title, description, goal, problem solved, how you plan to use AuthzForce to achieve the goal.
 ## [OWASP Foundation](https://www.owasp.org/index.php/Main_Page)
 
-![OWASP Foundation](//lh3.googleusercontent.com/P7KtwG37uUNdfdMX-zmU1WQZ-mgcRs--_TP8k1yvwMaMrCEuYfiD1uAxK12OGMO4T11bc5AWtN5sgJFXlfXqFFKMUXPJqSFA)
-
 **OWASP is the Open Web Application Security Project. Our goal is to be the global community that drives visibility and evolution in the safety and security of the world’s software**
 
 ### Metadata
@@ -5675,8 +5411,6 @@ OWASP is a new kind of organization. Our freedom from commercial pressures allow
 * Twitter: We provide detailed instructions for students and application instructions here: https://www.owasp.org/index.php/GSoC
 and here: https://www.owasp.org/index.php/GSoC_SAT
 ## [P2PSP.org](http://www.p2psp.org)
-
-![P2PSP.org](//lh3.googleusercontent.com/rDcLY70rmk1P-FDRzlPs1Yin4DJCzHTq3ha6m4xQl9M9t6naboQihRSVfv5_kaU8BEBF5xZmGwzM_SxrYWr5MPfqo7bQR_M)
 
 **P2PSP.org is a nonprofit organization that develops the P2PSP protocol: an application layer protocol designed for the real-time streaming of multimedia content over the Internet.**
 
@@ -5709,8 +5443,6 @@ P2PSP.org is a nonprofit organization that develops, among other things, the P2P
 7. How can we contact you to ask you further questions?
 8. What school are you attending? What year are you, and what's your major/degree/focus? If you're part of a research group, which one?
 ## [PEcAn Project](http://pecanproject.org)
-
-![PEcAn Project](//lh3.googleusercontent.com/HnNfS8QaJu9AUqKKSFqn2f8SfoKqMB80JRd4kDkNCjIwUCXLr2H_D93o6KpuHvPkoRmcJ5Pg-QADMHcDScgyKxoxh4ZtRRAa)
 
 **PEcAn is an integrated ecoinformatics toolbox that consists of a set of scientific workflows that wrap around ecosystem models and manage flow of information in and out of models.**
 
@@ -5759,8 +5491,6 @@ In addition to making the PEcAn source code open source, the system is also avai
 5. Start coding!
 ## [Performance Co-Pilot](http://pcp.io)
 
-![Performance Co-Pilot](//lh3.googleusercontent.com/gr9udpX4JDUyWK8k4Mk-F0oliRuwpm6dFNLFBskI4tz47SdTk5kwJv1mOoKBrI17dMjKKE2O1cvtldYeiU8lEkAaM97D7kdD)
-
 **The Performance Co-Pilot (PCP) is a toolkit designed for monitoring and managing system-level performance.**
 
 ### Metadata
@@ -5804,8 +5534,6 @@ There is scope for extending or changing the projects somewhat to suit your goal
 
 Happy hacking!
 ## [phpBB Forum Software](https://www.phpbb.com)
-
-![phpBB Forum Software](//lh3.googleusercontent.com/uj6ll4mNUfcdAR_UI_abgqAVpdGkTrx7m8xLR6RJaYAILRH6bvWZLN4Et4c27zKRI-AVRIT6M7H83auELzjQwMjZEizSflcd)
 
 **phpBB is the most widely used free and open-source forum solution.**
 
@@ -5857,8 +5585,6 @@ We have found that good proposals are generally 1-4 pages long, and contains the
 If in doubt, just ask us. We're excited to be working with you!
 ## [phpMyAdmin](https://www.phpmyadmin.net)
 
-![phpMyAdmin](//lh3.googleusercontent.com/eMrz9DWSz4hvXSQFqfVpV3_j7OMjYrcN_G_H6Z5yRKB16YkkXJMFCvf6Grdy11NJ64oHGTQHOtx41A4cA6LSxvkDCUFDvsQ)
-
 **We're developing phpMyAdmin, a MySQL web interface. It supports most MySQL features, is widely used by database administrators, and is well supported by hosting providers.**
 
 ### Metadata
@@ -5889,8 +5615,6 @@ Finally, submit your application through the Google site, and keep an eye out fo
 
 Full application instructions are also posted on our [GSoC wiki page](https://github.com/phpmyadmin/phpmyadmin/wiki/GSoC_home)
 ## [Plone](https://plone.org)
-
-![Plone](//lh3.googleusercontent.com/3IdyHVn0u8cGuTrIafLsiDjDCmlsBXcTI2gws8G2oLBScK5RnQL5mGr7k5FvCeEZrr5dKLXQVmkfZ41S1NtdQvRaVM7ZcKDF)
 
 **Plone is a Python-based CMS built with workflow and security at the forefront. It is developed by a world-wide community and uses modern technologies and techniques.**
 
@@ -5948,8 +5672,6 @@ Once you've got a solid idea of what you want to do, it's time to write your pro
 * Do you have any other commitments during the summer of code period (i.e. between June and August)?
 ## [PMD](https://pmd.github.io/)
 
-![PMD](//lh3.googleusercontent.com/sJpfX1a-zzHjEFvCEHCLLRGYUCJqlpPhQDnTLeR2JnE_GcvYx34lV6BgLivE9i8vLPV2-718NMw8JDKzG-OEbXFFaaPwSQ)
-
 **PMD keeps an eye on code quality in your project. It understands multiple languages and can be customized to your specific needs.**
 
 ### Metadata
@@ -5996,8 +5718,6 @@ We have two kinds of idea lists:
 You may also suggest a project of your own or take an idea and adjust it. Please make sure to discuss it with us on [gitter](https://gitter.im/pmd/pmd), on our [mailing list](https://lists.sourceforge.net/lists/listinfo/pmd-devel) or [issue tracker](https://github.com/pmd/pmd/issues) beforehand.
 ## [Pocket Science Lab](https://pslab.fossasia.org)
 
-![Pocket Science Lab](//lh3.googleusercontent.com/QJjQa-bCupLHYPgriwaiacHngco0BoHP-RfuDnT2KaNBoIIPvqURM3Rik9Ct43x1nXvKOlLJ7fv3eLW04QDneCMsvVzNVZ8u)
-
 **The goal of PSLab is to create an Open Source lab using free software and hardware that can be used for experiments by teachers, students and citizen scientists.**
 
 ### Metadata
@@ -6022,8 +5742,6 @@ The goal of PSLab is to create an Open Source lab using Open Source software and
 
 * Twitter: Please check out our application instructions on the Idea page: https://github.com/fossasia/pslab.fossasia.org/wiki/Ideas
 ## [Polly Labs](http://pollylabs.org)
-
-![Polly Labs](//lh3.googleusercontent.com/Cp2ypwW7NKRyVI9L-VmN0PymSASvthwYzZMn5nwN7tM_ifdq-4jJyTC2LuubHG0fkUvJZ2eJMi0WxvcFIQn44UfJf-mHWw)
 
 **Polly Labs supports the development of tools based on the polyhedral models such as LLVM/Polly.**
 
@@ -6063,8 +5781,6 @@ Unless you already worked with our community, we will also ask you to complete a
 For details and hints what makes a good proposal, please see our [How to apply page](http://pollylabs.org/gsoc-how-to-apply.html).
 ## [PostgreSQL](https://postgresql.org)
 
-![PostgreSQL](//lh3.googleusercontent.com/dZ_oew0LVwBSAiWC4mZoRrd_QbX0BgDxV_ydnc-T4aByJNZHQPoE_Nwz6kBeeyGBEkt9kW4BNL_sS7ambal7TissNjFPLQ)
-
 **PostgreSQL is a powerful, open source object-relational database system with more than 20 years of active development and a proven architecture.**
 
 ### Metadata
@@ -6091,8 +5807,6 @@ An enterprise class database, PostgreSQL boasts sophisticated features such as M
 
 * Twitter: GSoC proposals should be submitted to the pgsql-hackers@lists.postgresql.org mailing list.  Additional information about developing for PostgreSQL can be found here: https://wiki.postgresql.org/wiki/Development_information
 ## [Probot](https://probot.github.io/)
-
-![Probot](//lh3.googleusercontent.com/OgGHDNG4CJrZXHowAUKJDkCHnKv-cMSGtglh5dJ62Qw8cnnCre1pbvI1GhFpXPe_scqRt9NPhATmek6Hz4mGTOqvf3L-I88)
 
 **Probot is a framework for GitHub Apps to automate  and improve project workflows.
 Use pre-built apps to extend GitHub, and easily build and share your own.**
@@ -6132,8 +5846,6 @@ We look forward to meeting you :)
 * Twitter: Pick an existing idea at https://github.com/probot/ideas/issues or suggest a new idea for a Probot application that you would like to work on. Familiarize yourself with the project before applying. You should have worked with Node.js before, but don’t need to be an expert. We encourage applications by students from groups underrepresented in tech :)
 ## [Public Lab](http://publiclab.org)
 
-![Public Lab](//lh3.googleusercontent.com/TEzwx1jcEKg3-npQCoxeDEwa8NpuP0epGEqdeWu1ocm9muyb6gfI9w9uJhScjVrib0sUZ4rJcKvP9NTUrsy8-URSIDbGWXzl)
-
 **Open hardware and software to help communities measure and analyze pollution**
 
 ### Metadata
@@ -6168,8 +5880,6 @@ Our collaboration and development platform PublicLab.org enables thousands of pe
 
 * Twitter: Please follow instructions here to apply; our call for proposals and template are listed there: https://publiclab.org/notes/warren/02-15-2018/call-for-summer-of-code-2018-proposals
 ## [Purr Data](https://git.purrdata.net)
-
-![Purr Data](//lh3.googleusercontent.com/OLuBNKMMxbgNDco2cKzMtkXkst-Haf8EwYrLlOqBbBZbnrV0-O_QByqsdwXNyEatP_9SVu8KhOyg3LgmUoZrO6ssBM5MZGU)
 
 **Purr Data is a visual programming language aimed at low-latency real-time DSP applications. The diagrams double as user interfaces, making Purr Data ideal for prototyping DSP apps.**
 
@@ -6208,8 +5918,6 @@ Please complete the following steps to apply:
 5. Use at least one cat metaphor or reference in your proposal.
 ## [Python HYDRA](http://www.hydra-gsoc.appspot.com/)
 
-![Python HYDRA](//lh3.googleusercontent.com/RuqjlLHTklIpMldCfOra_LeVoWTt6RVZDvjUhej6sDU--t7RAifdqjPLPRX2q91iOL8MFbFauVhW47FALEhTwsp21yzsjIPk)
-
 **Python toolkit for Semantically linked Web APIs based on HYDRA**
 
 ### Metadata
@@ -6236,8 +5944,6 @@ Building Web APIs seems still more an art than a science. How can we build APIs 
 
 Starting material and references also at https://github.com/HTTP-APIs/hydrus/wiki/Starting-Material
 ## [Python Software Foundation](https://www.python.org/)
-
-![Python Software Foundation](//lh3.googleusercontent.com/2u8NbRuB_HFXdeLllcGRjp2RpviU4GRzu1LjPZhqGC3sSn3R025RyDXB7tIJ5zkXcWn0DDU8wFsQlx_1-qRNiTA4IO4iRW4)
 
 **Python is a popular high-level programming language used by scientists, developers, and
 many others who want to work more quickly and integrate systems more effectively.**
@@ -6302,8 +6008,6 @@ Do you have any other commitments during the main GSoC time period? For example:
 * Have you applied with any other organizations? If so, do you have a preferred project/org? (This will help us in the event that more than one organization decides they wish to accept your proposal.)
 ## [QEMU](https://qemu.org/)
 
-![QEMU](//lh3.googleusercontent.com/ZewfaPulWkbzuGpcudPvcm6uUImYRbE0DNwWOgsK5KsX4N2GvGhipDL9CGo74NcXZGC7FwKwSSYLhY-U1wvIf5P7fpJfrh8p)
-
 **QEMU is an emulator and virtualizer that is used for cloud hosting, datacenter virtualization, CPU emulation, hardware prototyping, and low-level software instrumentation.**
 
 ### Metadata
@@ -6352,8 +6056,6 @@ Please use the following template:
 
     Project plan (estimated 12 week schedule of tasks you have identified):
 ## [Quill.org](https://quill.org)
-
-![Quill.org](//lh3.googleusercontent.com/xb52vhYNsuo9ZCw2a5cSKmpPuq6LpCSQABJLArsH6_JJRm2zkNfYrpzQ5gZZRpgXV8dNoTmo9lbTtwJ8a2wMzZhYRK0zBFI)
 
 **Quill.org is an education technology nonprofit that helps learners around the world improve their writing and critical thinking skills through innovative technological approaches.**
 
@@ -6417,8 +6119,6 @@ Help us get a better idea of how good you are at what you do!
 Please be aware that GSoC is meant to be a full-time commitment.
 ## [R project for statistical computing](https://www.r-project.org/)
 
-![R project for statistical computing](//lh3.googleusercontent.com/qlSB2E0SDXNNVPijKF7LCK1m18Xaot9bQMfoRQWJ76diI85bMOHBaQvr20X3PH-NZplzFSlakZQdAnKWtzBkOzVAT9YXqnSr)
-
 **R provides a wide variety of statistical and graphical techniques, and is highly extensible. R is often the tool of choice for research in statistical methodology.**
 
 ### Metadata
@@ -6477,8 +6177,6 @@ https://summerofcode.withgoogle.com/
 More details are on the R GSOC projects wiki.
 ## [radare](http://radare.org)
 
-![radare](//lh3.googleusercontent.com/re0Te9JbBl-aHG9tpxO_3WvYsTFrchihB4opiq9oRH3y14Vn4vTihp30Uohpd-Yalsap1VfgE5Mx31MgetJnfWGPFgHikDU)
-
 **Radare2 - portable reverse engineering framework and toolset supporting various platforms, architectures and file formats.**
 
 ### Metadata
@@ -6524,8 +6222,6 @@ How to fill in the application template
  - Submit your proposal early, not at the last minute
  - You can also choose a “backup” idea (the second task you probably want to do), so that in case of some conflicts (two students for one task) it will be easier to solve.
 ## [ReactOS](https://reactos.org/)
-
-![ReactOS](//lh3.googleusercontent.com/ordumygACobe453WEcrVS1FqIGQ0V0S7dxKdyXwfzIwG9JFWZfBNBY-5NepGljw34G5nwZSFOQF0HGjSzC-K5mNyVy_Focc)
 
 **ReactOS is a free, open source, Windows compatible operating system.**
 
@@ -6588,8 +6284,6 @@ For projects that are relatively easy to quantify, please propose milestones tha
 Students are required to affirm that the following is true. I hereby swear that I have not used nor seen the source code to any version of the Windows operating system nor any Microsoft product that may be related to the proposed project that is under a license incompatible with contribution to ReactOS, including but not limited to the leaked Windows 2000 source code and the Windows Research Kernel.
 ## [Read the Docs](https://readthedocs.org)
 
-![Read the Docs](//lh3.googleusercontent.com/pPSHWLXzdnqACLZiVS5EB4Wac5Uj-ogCPe_aLYpWNlUxxTQfHDOrvopK9cnHy5RmpsqGhIqMmSJIlXE3WwPGimcwDG-0Vvg)
-
 **Read the Docs hosts documentation for the open source community. We build and host docs for tens of thousands of open source projects.**
 
 ### Metadata
@@ -6613,8 +6307,6 @@ Read the Docs hosts documentation for the open source community. We support Sphi
 
 * Twitter: Our application instructions are available in our documentation, along with our list of ideas: http://docs.readthedocs.io/en/latest/gsoc.html
 ## [Red Hen Lab](http://redhenlab.org)
-
-![Red Hen Lab](//lh3.googleusercontent.com/vlmM_3zq2IInjm-ehx2_t3xFaYNAi9Fn7CnAkazxQvvrovmQqqgBiiwXJoKrcXO2fAxJZ87rZkSM6Gbws6gqNf9ax7-cHQM)
 
 **Red Hen Lab is a distributed consortium of researchers in multimodal communication, with participants all over the world.**
 
@@ -6652,8 +6344,6 @@ If you are proposing a machine learning project, base the proposal on techniques
 Please be prepared to follow code formatting standards closely and to work with Singularity (virtual Linux system) images throughout the summer.
 ## [RoboComp](http://robocomp.org/)
 
-![RoboComp](//lh3.googleusercontent.com/mi9Z9-PZ05YOCxJhSZeTWKMhEfwwixIsAY3W_bvMQpAW817z1EMrRhk-nAmffH7SI5TmxpIprMhdkl8L4lKw7WOO9l8iGFKV)
-
 **RoboComp is an open-source Robotics framework providing the tools to create and modify software components that communicate through public interfaces.**
 
 ### Metadata
@@ -6689,8 +6379,6 @@ As a result you should provide the following material in your application to the
 
 NOTE: If you send this by email make sure to also submit your application through the official GSoC website otherwise you will not be considered for the programme.
 ## [Rocket.Chat](https://rocket.chat)
-
-![Rocket.Chat](//lh3.googleusercontent.com/xTUWs-PlkuMiHAhPqbK8lDpZnQyJwUIYur5fDsW3RAJy0K3FAQuM2u8Y6tmoH6_ndNBsEmcZCvn0JyHroSx0eRQLR4jOdA)
 
 **Rocket.Chat is an open source group communications platform;  supporting text msgs, video, audio, and file/media sharing between individuals and groups- cross mobile, web, desktop.**
 
@@ -6731,8 +6419,6 @@ Check out our [project ideas list](https://rocket.chat/docs/contributing/google-
 You can reach out to a mentor to discuss project details via email  gsoc+2018@rocket.chat ,  our  [24 x 7 community server](https://open.rocket.chat), or via our [discussion forums](https://forums.rocket.chat/c/gsoc).
 ## [Rspamd](https://rspamd.com)
 
-![Rspamd](//lh3.googleusercontent.com/UQcgP34LnEpw0cKQCW2hyPC9sXq-5zDkbLuj1-VMkCbg9iTT73R584PF9r5HxXN87VRY0vAFo6BrKmiP1ihSVepOPjJPMI1c)
-
 **Rspamd is an advanced spam filtering system oriented on high performance and spam detection quality.**
 
 ### Metadata
@@ -6759,8 +6445,6 @@ Rspamd project has a friendly community and active communication channels.
 
 * Twitter: Please search the [issue tracker](https://github.com/vstakhov/rspamd/issues?q=is%3Aissue+is%3Aopen+label%3Agsoc) for issues labelled "gsoc" to find small tasks you may consider for an introductory task or two (your original ideas are also welcome). Proposals where the student has done one/more tasks will be considered favourably. Please join #rspamd on Freenode & ask any questions you may have there (be prepared to wait for a response).
 ## [RTEMS Project](https://www.rtems.org/)
-
-![RTEMS Project](//lh3.googleusercontent.com/rDmrM6lBCk2NglUuQVHeeACpATJXzDfP7sNAYHpW1bQrk4O3qtGHT6-EMKmEIkoJsvvS-sPKphKYJgRYuTSs8jISp2ziMA8)
 
 **RTEMS is an operating system used in satellites, particle accelerators, robots, racing motorcycles, building controls, medical devices, and more.**
 
@@ -6789,8 +6473,6 @@ The RTEMS Project is the collection of individuals, companies, universities, and
 * Twitter: Student information (including a link to an application template) is at: https://devel.rtems.org/wiki/GSoC
 ## [Ruby](https://www.ruby-lang.org/)
 
-![Ruby](//lh3.googleusercontent.com/SX_jwATMAEhJRh7fkmKI-nJ8QWd_EkD78calVEpmmx0AlO2ZyGohFXqPZ3gGlcdT8LmDtUTEtfDaqLU3fCotSpgS6ecrCYRM)
-
 **The Ruby programming language, libraries, and tools**
 
 ### Metadata
@@ -6816,8 +6498,6 @@ The Ruby organization hosts mentors and students working on the main (MRI) Ruby 
 
 Applications should include answers to all of the questions listed on the [Ruby GSoC 2018 Student Application](https://github.com/rubygsoc/rubygsoc/wiki/Student-Application).
 ## [Ruby on Rails](http://rubyonrails.org/)
-
-![Ruby on Rails](//lh3.googleusercontent.com/13UWK9DXvR51iSqfHisoILRZ8n9v9LgL4eh3l11vz4I12PtCbbW8uBiPscamASYWrPXM1l7HyqgVO_JzGaXoaTuCqgOW5NxW)
 
 **Ruby on Rails make web application development easy and fun.**
 
@@ -6856,8 +6536,6 @@ Convention Over Configuration: Rails has opinions about the best way to do many 
 It's also a big plus if you're able to send a tiny patch (even documentation) to the project you are willing to work on.
 ## [Ruby Science Foundation](http://sciruby.com/)
 
-![Ruby Science Foundation](//lh3.googleusercontent.com/VyufdYCm1bKNDLoeR6VrMKUnuzGWz63OyO-KYQJ7yWhUoal44jE-2xfUzOSt--3Pk7xIOHSAW16ZYfDu3Z4a8fKF9MLm5qFD)
-
 **SciRuby's purpose is providing science, numerical, and visualization infrastructure for the Ruby Programming Language. We develop and maintain several libraries for this purpose.**
 
 ### Metadata
@@ -6888,8 +6566,6 @@ Since we are first and foremost a science-related project, we expect successful 
 
 * Twitter: https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2018-Student-Application
 ## [Sage Mathematical Software System](https://www.sagemath.org/)
-
-![Sage Mathematical Software System](//lh3.googleusercontent.com/-26pMvCS2cZiTb0iTf_L18lk1S-yQJydd5js_QM-5CpiWMJmfFqh2nI1In4ED_zF8Dy8ydkUJ2djT_PQLbrITUAIQOr6zg)
 
 **SageMath is a free open-source mathematics software system licensed under the GPL.**
 
@@ -6944,8 +6620,6 @@ Project:
 * Risk Management: Try to anticipate potential problems and explain, how to mitigate them. Propose alternative scenarios, if a particular milestone isn't reached, to still successfully complete the project.
 ## [Scala](http://www.scala-lang.org)
 
-![Scala](//lh3.googleusercontent.com/VNR2VDiKgOosJvxstri83WaGRVmdIwpd1Gzq4FQsulqHXMWn2TpgZ6zMx-M0CO3S_IdyzYusYRyZqafPZhuecWBGnmBMMg)
-
 **Scala is a hybrid object-oriented and functional programming language that runs on the JVM, JavaScript and compiles to native code via LLVM.**
 
 ### Metadata
@@ -6992,8 +6666,6 @@ feel free to include anything that you think is relevant:
     *   Do you plan to have any other commitments during SoC that may affect your work? Any vacations/holidays planned? Please be specific as much as you can.
 * If you apply to more than one GSoC project, especially if you also apply for a project in another organization, specify which project has your preference. In case two organizations choose to accept your applications, we can then give you the project that is most important to you. Preferring the project of another organization will not influence our decision whether to accept your application.
 ## [Scilab](https://www.scilab.org)
-
-![Scilab](//lh3.googleusercontent.com/5Eu_zJ6swtlocxDSboz1rW0NuFLtXep83cOYrjWzswurEaIKl4bILr_BJYQCy_cyuEvWgFbt3gwsr5VFVf0i_pRThj-ARQ)
 
 **Scilab is a high-level, numerically oriented programming language. The language provides an interpreted programming environment, with matrices as the main data type.**
 
@@ -7069,8 +6741,6 @@ Thanks to its ability to interconnect with third-party technologies and applicat
 We require students to build Scilab before submitting a project. It is easy to do. Students should send us a screenshot of the Scilab console with the updated banner containing his name. Building your own module (toolbox) is also appreciated, especially if it provides an actual feature (even a single function) and if it is integrated in ATOMS. Applicants providing patches fixing reported bugs (even easy one) will be considered with care. Applicants can also fix issues reported by Coverity. If you do so, please indicate it in your proposal.
 ## [ScummVM](https://scummvm.org/)
 
-![ScummVM](//lh3.googleusercontent.com/-tVNjCf8UdDSoDFI8lYQLpCHMzU37XCOAEc1Ni8_43GRFi8VefSF-JxfxuatcMvDnovYU3yawHovy1x_gk1ex9b14uWE7Pk)
-
 **ScummVM is a GSoC umbrella for game preservation projects focused on reliving games by providing a replacement for their executables on modern platforms.**
 
 ### Metadata
@@ -7110,8 +6780,6 @@ We don't expect you to produce a perfect application without any help at all. We
 In order to help you structure your application, we summarized our requirements in a template: http://wiki.scummvm.org/index.php/GSoC_Application
 ## [Seastar](http://www.seastar-project.org/)
 
-![Seastar](//lh3.googleusercontent.com/5CUnUkwlJJ0ROw8tSOseLRTRlLQpmaQdrODdozxqMoSAQcl1MkEupEVSRvrX23v44LJ7Zh1ZiVVBoLzSPtK3DIzD5d5IslWW)
-
 **Advanced C++ framework for asynchronous high-performance server applications on modern hardware.**
 
 ### Metadata
@@ -7149,8 +6817,6 @@ If you have any question, feel free to send an e-mail to seastar's mailing list 
 Please also refer to FAQ available in the project's official website: http://www.seastar-project.org/
 If you're interested in knowing more about Seastar, gather details about other potential ideas or make a proposal based on the ideas suggested, please send an e-mail to seastar-dev@googlegroups.com. We will be very happy to help.
 ## [Software and Computational Systems Lab at LMU Munich](https://www.sosy-lab.org/)
-
-![Software and Computational Systems Lab at LMU Munich](//lh3.googleusercontent.com/_SmtUTRVnV6LqBmKBQzXeCJFJcco9om-enDey659C1TbneaLHrdBmnPzqjpt7GQsR5aMwXEsAucf4pu01fvxmUznZwwNojI)
 
 **Our project involve several aspects of software development,
 from plain theoretical parts like SMT solving to application-related pieces like benchmarking.**
@@ -7240,8 +6906,6 @@ You should communicate with your mentor, and formally report progress and plans 
 Further instructions are avaliable [on our website](https://www.sosy-lab.org/gsoc/gsoc2018.php#students "further instructions").
 ## [Space @ Virginia Tech](http://space.vt.edu)
 
-![Space @ Virginia Tech](//lh3.googleusercontent.com/gl3HuD344HF1RFX95v5QD9Ew_f0NOtfymO3gI4nQ5-mTTE5k0FrOpBXS-NiwJQNJl74ix4mIVWyVXcBht_93g3fXymDOkr1O)
-
 **Our mission is to provide forefront research, instruction, and educational outreach in the fields of space science and engineering.**
 
 ### Metadata
@@ -7273,8 +6937,6 @@ The vision of Space@VT is to be a premiere space research organization of intern
 * Twitter: We are an organization where everyone is passionate and enthusiastic about their work and we expect the same from the students. We recommend the students to go through our list of ideas to get a notion of the projects we work on. However, it is not required to pick an idea from the list, you are welcome to suggest your own ideas as long as they are relevant to space science. We expect the students to have basic programming skills. Python is our preferred programming language but not a requirement to apply as some projects may not require python at all. It is not required to have a knowledge of space science or the instruments listed in the ideas page, you'll learn about them when you start working with us. If you are interested in some of the ideas, contact the corresponding mentors (contact info shared in ideas page) as soon as possible to discuss them further. Finally, feel free to contact Debbie Collins (collinsd@vt.edu) or any of the mentors for general queries.
 ## [SPDX](https://spdx.org)
 
-![SPDX](//lh3.googleusercontent.com/TVAnJhs1t64QsSrp5lV14YEDbs4qhfdESEcYX6WGmLPjS0B2HEQJ8h7Nvnzoz-vDnJsF_eEg8HeyWPV-eiG_-Z09DEZQBx1w)
-
 **The Software Package Data ExchangeR (SPDXR) specification is a standard format for communicating the components, licenses and copyrights associated with a software package.**
 
 ### Metadata
@@ -7297,8 +6959,6 @@ Develop and promote adoption of a specification to enable any party in a softwar
 
 * Twitter: Please review the requirements described in the project ideas page at http://wiki.spdx.org/view/GSOC/GSOC_ProjectIdeas. Submit your proposals using the GSoC website to the mentor from the ideas page or feel free to contact them directly with questions.
 ## [Stemformatics](https://www.stemformatics.org)
-
-![Stemformatics](//lh3.googleusercontent.com/yle6XpjT0BdRYon9CGw7oIOr0tkMG9e-kA_WLuSviJU1R-RraETQQaZj-LCarCA37z5bgAeWDqXAjdabhIYYrAoTYa3mwJ5a)
 
 **It is difficult for a stem cell scientist to be able to visualise an explore their datasets. Stemformatics makes it quick and easy for scientists to explore their data.**
 
@@ -7326,8 +6986,6 @@ Stemformatics always ensures that each student gets a great learning experience 
 
 * Twitter: Please provide a cover letter, a resume and a link to some of the projects you have done. Please explain in the cover letter why you are interested in the project and what you would like to get out of the experience.
 ## [STE||AR Group](https://stellar-group.org/)
-
-![STE||AR Group](//lh3.googleusercontent.com/BZjTF0797RlT90P0Jh-glnJDke9pXyAS_fziKCWjiCQL61RK5SGKNwkbXATEv1jzbia3z0Q04zJmN8mWH6SvxPCDseLwNw)
 
 **HPX: The C++ Standards Library for Concurrency and Parallelism**
 
@@ -7358,8 +7016,6 @@ If you are looking for a project which incorporates cutting edge HPC research, r
 
 * Twitter: https://github.com/STEllAR-GROUP/hpx/wiki/GSoC-2018-Project-Ideas#introduction
 ## [Stony Brook University Biomedical Informatics](https://bmi.stonybrookmedicine.edu/)
-
-![Stony Brook University Biomedical Informatics](//lh3.googleusercontent.com/yMv_eE5186Q-YHYiaWj0ASR-8HXfYCMGIdZGdSkH35uzjT8ZJDGNUHzPrkI5fdBI5L7gyx3TWbNSClj33JNOH_CM6tq2dA)
 
 **The mission of the Department of Biomedical Informatics of Stony Brook University is to advance biomedical knowledge through innovative data science education and research.**
 
@@ -7400,8 +7056,6 @@ About me
 Provide your contact information (email, phone, skype) and write a few sentences about you and why you think you are the best for this job. Name people (other developers, students, professors) who can act as a reference for you. Mention your field of study.
 ## [strace](https://strace.io)
 
-![strace](//lh3.googleusercontent.com/QZ73OrqK0YTUSl7TSp1O6TgYBLz-JH6Q_K8xmEJ42y_c3DWua7q5wXbUHVikBmmwXS-pVTElTG9dH5Xg308ggRT6Qrb8et8)
-
 **strace is a diagnostic, debugging and instructional userspace utility for Linux. It is used to monitor and tamper with interactions between processes and the Linux kernel.**
 
 ### Metadata
@@ -7430,8 +7084,6 @@ strace is an important tool for debugging and tracing deployed on most Linux dis
 The primary way to contact the strace community is through the [mailing list](https://lists.strace.io/mailman/listinfo/strace-devel). Please discuss your application on this list.
 ## [Streetmix](https://streetmix.net/)
 
-![Streetmix](//lh3.googleusercontent.com/b9R_o4PoOb75l20p5X4pFYqvBLbxyO0UNpBj3CJhZs9BzZJOA3M81QOgfAhD0Wt2l8ecYdH5o65FyE_eu6KF933jEcMt80k)
-
 **Streetmix is a fun and friendly civic engagement platform that encourages people to redesign streets in their own communities, and collaborate with urban planners and others.**
 
 ### Metadata
@@ -7456,8 +7108,6 @@ But first and foremost, we designed Streetmix to demystify this process and make
 
 * Twitter: We're looking for applicants that are eager to apply their programming skills to building civic technology and user interfaces that demystify a political, democratic process and to encourage more participation and collaboration within a community to design public space. We will be applying best practices in modern application architecture (with Javascript/Node.js) and user interface engineering to build a simple, responsive, and performance optimized user experience. Interest and experience in UI design, SVG and canvas rendering, databases, and open data are a plus. Candidates should be comfortable with HTML/CSS/Javascript and familiar with either MongoDB or Postgres.
 ## [Submitty](http://submitty.org)
-
-![Submitty](//lh3.googleusercontent.com/FLRWAXOdIRaYKzSA7YULWdjVDGqdcOC5p4n0XEu2zDyachPeNHrF6Roz_6dCtkSFTnL_7PYtldjFyJJlIM8MHsJ5EgEz9A)
 
 **Submitty is an open source programming assignment submission system with secure and automated testing, automated grading, and efficient manual TA/instructor grading & management.**
 
@@ -7508,8 +7158,6 @@ Applicants should review the list of [proposed projects](http://submitty.org/dev
 Finally, interested applicants are encouraged to download and install the Submitty source code as a virtual machine on their own computer (http://submitty.org/developer/vm_install_using_vagrant).
 Submitting comments or questions on an open issue or preparing a new pull request to address one of the smaller open issues will demonstrate aptitude and interest in the Submitty project.
 ## [Sugar Labs](http://www.sugarlabs.org)
-
-![Sugar Labs](//lh3.googleusercontent.com/RI3mTCw0b7fjtH3bzBTORYAHB3gukbATUrchGxxqBufuZoXgJ5y2g3ThKxGF8TdB6-DZV5H84xVfUfWALf1qqtMEBlW7UUE)
 
 **We make tools that learners use to explore, discover, create, and reflect. We encourage our users to appropriate them, taking ownership and responsibility for their learning.**
 
@@ -7564,8 +7212,6 @@ What to include in your proposal
 
 For more details, please go to [Sugar Labs GSoC 2018](https://wiki.sugarlabs.org/go/Summer_of_Code/2018).
 ## [Sustainable Computing Research Group (SCoRe)](http://www.scorelab.org/)
-
-![Sustainable Computing Research Group (SCoRe)](//lh3.googleusercontent.com/ZFptLfWpe6TE3cqTW6mWuIbimHgJw31TJOAmqBxpsQHPLcIlQRgCNwVtCogMKpFX8GPMCM84AwiWPlZqg_10UZ0psx4rjMw)
 
 **SCoRe is a research group that seeks sustainable solutions for various problems in developing countries such as Sri Lanka.**
 
@@ -7633,8 +7279,6 @@ Contribution Examples: Bug Reporting, Patchers (Github Pull Requests), Mailing L
 Project reference
 ## [Swift](https://swift.org)
 
-![Swift](//lh3.googleusercontent.com/YrT0G6o0yZ9stXxtAKmHWIBmMJbQqJ0Ke3T-A6kMa5g6AaP7QXvBEQjuQT1T69Yi5b13EyOSzlW2M9YNWdF8C3rI5L9njKC-)
-
 **Swift is a high-performance system programming language. It has modern syntax, offers seamless access to existing C and Objective-C code, and is memory safe by default.**
 
 ### Metadata
@@ -7668,8 +7312,6 @@ Although inspired by Objective-C and many other languages, Swift is not itself a
    * This should outline how the work will be approached in stages, with milestones along the way that can be used to both evaluate the technical direction of the work as well as how much progress has been made.
 ## [SymPy](http://www.sympy.org/)
 
-![SymPy](//lh3.googleusercontent.com/fTyY5S9LSIajtZ6TKWoLqWZurkLvf-AMYNbk831tYNRQfO_Mlbi9nP7y5KROdD1T9_wsFebiSfVF3FWnQuSxVyQWP_6W6f0)
-
 **SymPy is a Python library for symbolic mathematics.**
 
 ### Metadata
@@ -7695,8 +7337,6 @@ Students applying should read our [student instructions](https://github.com/symp
 
 * Twitter: https://github.com/sympy/sympy/wiki/GSoC-2018-Student-Instructions
 ## [Systers Community](https://anitab.org/systers/)
-
-![Systers Community](//lh3.googleusercontent.com/xsRxKqwjxwnPrGHWYNsJLyrq8nweMyE2CP_rdnKmLWgOkEriejLZDZ6dhZbdwBTHTnRDocRWNcWgj8g-l4x7c30d5KI5tG8)
 
 **Helping women find their potential in code.**
 
@@ -7728,8 +7368,6 @@ Systers is a community for all women involved in the technical aspects of comput
 5. Fill out the [GSoC 2018 application](https://docs.google.com/document/d/1mABPOVuuGO5TzxAsSV_9PKdkjyVRAr2js_-S43dhCaY/edit?usp=sharing) - final!
 ## [TEAMMATES @ National University of Singapore](https://github.com/teammates/teammates)
 
-![TEAMMATES @ National University of Singapore](//lh3.googleusercontent.com/pz4Ocy5Fecbn-NxUtEcmoTho3TbUpKOD1DergUMEZSUNq7NHevuRcB0hkiDEbnmfZCrmJ7C4_3gKfEJpwK75h5zlc2DYa74)
-
 **TEAMMATES is an award winning online feedback management system for education, used by over 200k users. It is a free Java EE SaaS application that runs on the Google App Engine.**
 
 ### Metadata
@@ -7758,8 +7396,6 @@ The [TEAMMATES project](https://github.com/TEAMMATES/teammates) is based in the 
 
 * Twitter: http://tinyurl.com/teammates-gsoc
 ## [The Center for Connected Learning and Computer-Based Modeling](http://ccl.northwestern.edu/netlogo)
-
-![The Center for Connected Learning and Computer-Based Modeling](//lh3.googleusercontent.com/4QuH6CKHSaMNWFgQolnCiyQtFcpOdV734ROQ7O0A-IUGRvgyGlHv8vgOyzH4kmmnX_vMq4xO4R9DE22VU_w3weCaKrim8pNY)
 
 **NetLogo: A language and IDE for programming and scientific simulations**
 
@@ -7817,8 +7453,6 @@ Here are the things we want to see in proposals:
 * Evidence to show that you are capable of completing the project. This can include other projects you've worked on or contributions you've made to one of our projects,
 ## [The Eclipse Foundation](http://www.eclipse.org)
 
-![The Eclipse Foundation](//lh3.googleusercontent.com/TvFZZMkWXft8C--rM1IjKgFYgvny2Zdy8q-bQS0-uZGgGNnclU7J0EjOoDUYyXRHpphNRFA8E24xGbt6w6SFkqF-bQnBjCU)
-
 **The Eclipse Foundation is host to more that three hundred open source projects that cover a diverse set of technologies and interests.**
 
 ### Metadata
@@ -7868,8 +7502,6 @@ You've probably heard about our market-leading software development tools; we ha
 **Contact Information** Tell us a bit about yourself. A paragraph that states your work and education experience should suffice. We don't want your resume. Let us know why you are a worthwhile investment of our time. Please provide an email address that we can use to contact you.
 ## [The Honeynet Project](https://honeynet.org/)
 
-![The Honeynet Project](//lh3.googleusercontent.com/kWqF0bT_hHDVRLhg2pJhsFghmGZEWTTIqBSe5XOZKNDMyObRv__UjSH8d-Sf6eqvBxglXqtAD3u93Qzgqbv9vz4B_0-IXJo)
-
 **The Honeynet Project is a non-profit research organization dedicated to improving the security of the Internet at no cost to the public. Focus is on honeypots and threat analysis.**
 
 ### Metadata
@@ -7909,8 +7541,6 @@ The Honeynet Project uses GSoC as a incubator for new R&D projects, and to recru
 * Twitter: This year we have a wide range of project ideas and are also interested in hearing your ideas too. Our projects cover a wide range of programming languages and technologies. Project idea difficulty can range from fairly challenging, low level systems type projects that are likely to appeal to pretty confident programmers, through interesting data analysis, to data presentation projects building more effective user interfaces. We are always interested in discussing a student's own project ideas, and actively aim to mentor high quality student ideas too. If you are unsure, we can help you form your ideas during the student proposal submission period. If you want to find out more, take a look at our project ideas web page, subscribe to our blog and public GSoC questions mailing list.Then come and say hello on the #gsoc-honeynet IRC channel on irc.freenode.net (you can connect via webchat if you are behind a firewall or don't have a command line client too). There you should find a mix of organizational admins, project mentors, past successful GSoC students, general Honeynet Project members and prospective students, so please don’t be nervous - feel free to ask questions and we will always try and get back to you (although we may be idle for an hour or two when we sleep :) ). If you prefer email, check out the link to our mailing list or use project@honeynet.org. We are looking forwards to hearing from you and hopefully collaborating on something awesome together this summer.
 ## [The Java Pathfinder Team](https://github.com/javapathfinder/jpf-core/wiki)
 
-![The Java Pathfinder Team](//lh3.googleusercontent.com/XCt4HLVLBx42GYGRmAtfDTTuHSrRiDU9UQ82mG1UovWoKNVe8oC2mZSbEQ2LCOnSWcBIAnQNtqjI14XvD96Jl4qrNR9EhEg)
-
 **JPF is a highly extensible Java virtual machine which is written in Java, and is used to create a variety of verification tools ranging from model checkers to test case generators.**
 
 ### Metadata
@@ -7944,8 +7574,6 @@ You can find some project ideas on our [project ideas](https://github.com/javapa
 In order to apply to our organization, you need to submit a proposal to Google during the student application phase (03/12 - 03/27). Check out the [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq) page for more information.
 ## [The Libreswan Project](https://libreswan.org)
 
-![The Libreswan Project](//lh3.googleusercontent.com/bWRLyCNWvRsgThdTJtSXG4PCpr-p2MGD38Mh8odgOSQdGDXT6ldR-r-D2IiWbShtRo7nsUyxZWa0_c4F0IGol8SJH8zUhA)
-
 **Encrypting the internet using IKE and IPsec**
 
 ### Metadata
@@ -7970,8 +7598,6 @@ Libreswan implements the IKE and IPsec standards for VPN. These standards have b
 * Twitter: Interested students can look at our https://libreswan.org/wiki/GSoC2018 Project Ideas page, and our completed student projects page at https://libreswan.org/wiki/Student_projects  If a student is interested in a specific project, they can also contact gsoc@libreswan.org with their idea, or discuss their idea on the libreswan mailing list or irc channel.
 ## [The Linux Foundation](http://www.linuxfoundation.org/)
 
-![The Linux Foundation](//lh3.googleusercontent.com/bFK3YdvoZYjPBjTuQPBBTHcUQhaW9-JjIN9tGN_rFwxMjc3AM1J2gtTnaaucJ6nkmCUABZUlwGGQOzS_VJlcKAetuCXCl2wN)
-
 **The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux. Hosting the Linux Kernel. OpenPrinting, Linux Standards Base, SPDX, ...**
 
 ### Metadata
@@ -7994,8 +7620,6 @@ The Linux Foundation is a non-profit consortium dedicated to fostering the growt
 
 * Twitter: See our [applications template](https://wiki.linuxfoundation.org/gsoc/google-summer-code-student-application-template) page and the general hints on our [project ideas page](https://wiki.linuxfoundation.org/gsoc/google-summer-code-2018).
 ## [The MacPorts Project](https://www.macports.org/)
-
-![The MacPorts Project](//lh3.googleusercontent.com/14Gkic83w3-qtt4XLoUdw9YFkN5VuTYQD5Unzx0uJAt4A_823rkccpD5PJwEbvWFEcDCd131LqGt3Zzg0DyJiMvmIYoFqw)
 
 **MacPorts is an open-source package management system that simplifies the installation of other open-source softwares on the macOS operating systems.**
 
@@ -8026,8 +7650,6 @@ The best way to apply is to first make contact with us, either by sending a mail
 
 See our applications [template page](https://trac.macports.org/wiki/SummerOfCodeApplicationTemplate) and the general hints on our [project ideas](https://trac.macports.org/wiki/SummerOfCode) page.
 ## [The Mifos Initiative](http://mifos.org)
-
-![The Mifos Initiative](//lh3.googleusercontent.com/WAb52-9xX9s-iqZOS9xavNdiM2VLl_l2J7cyO9a2GViwPyaH0M-HDC5nHiK99zY0OBXXxz5UkcthPArCvSMrpj5fdFY2SvY)
 
 **FinTech non-profit leveraging the cloud, mobile, and open source community to deliver digital financial services to the world’s 2 billion poor and unbanked.**
 
@@ -8062,8 +7684,6 @@ You will work with a global community of brilliant minds guided by our shared vi
 * Twitter: https://mifosforge.jira.com/wiki/spaces/RES/pages/4456638/Application+Template
 ## [The NetBSD Foundation](https://www.NetBSD.org/)
 
-![The NetBSD Foundation](//lh3.googleusercontent.com/WXGpCx2tAOaA5uBEmiaVoYyEYhgjQ1-jRjroNAz1jwMi5sNJINsNHrv99qaYMoPvd8y7ZYGpENgjRb59ENwpzkHJN0h_57o)
-
 **A free portable operating system**
 
 ### Metadata
@@ -8089,8 +7709,6 @@ NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operat
 * Twitter: https://wiki.netbsd.org/projects/gsoc/
 ## [The ns-3 Network Simulator Project](https://www.nsnam.org)
 
-![The ns-3 Network Simulator Project](//lh3.googleusercontent.com/jtydWg7PMwVUygdDbJZwGIpFWucZo3nYFFU0uKxHAeDOWnO91A4JFGeEPLXUzxUZ9Al3WejimRWphu1HmFMtuXTgYrhx5yo)
-
 **ns-3 is a simulation tool for performance evaluation of computer networks and protocols.  ns-3 users build models and scenarios of networks to conduct simulation experiments.**
 
 ### Metadata
@@ -8113,8 +7731,6 @@ Are you interested in contributing to a widely-used performance evaluation tool 
 
 * Twitter: Students interested in ns-3 should read our [application guide](https://www.nsnam.org/wiki/GSOC2018StudentGuide).
 ## [The Processing Foundation](http://processingfoundation.org)
-
-![The Processing Foundation](//lh3.googleusercontent.com/xbNNxmOK9vsF1Nh34aDV_VJQHzEOSgCleG99BfkwL48oanpg9NFAiPxkEUp_j19nryhNnU_EgvRv02R1AcLeHNLg6IHEFic)
 
 **The Processing Foundation’s mission is to promote software literacy and visual literacy — and to make these fields accessible to diverse communities.**
 
@@ -8150,8 +7766,6 @@ For GSoC, we actively seek help with features we know we need, but also look to 
 You should feel free to propose your idea however you see fit. If you are looking for guidance, [here is a proposal template](https://docs.google.com/document/d/1UFcWh2IWqhICh4YIFNwtKUaWWXifaBB67rjPxbYzjbE/edit?usp=sharing).
 ## [The Qt Project](http://wiki.qt.io/)
 
-![The Qt Project](//lh3.googleusercontent.com/iynQakS1xwp_Pr8GT0IXiBZORrjuQQp4R1vXhnrfw4cTZz_H_yddgmY6eUnDqXLM3wmuBLIuwGvV1q85WNheLxz26j1Ul5c)
-
 **The Qt Project is a project to co-ordinate the development of the Qt software framework.**
 
 ### Metadata
@@ -8176,8 +7790,6 @@ The Qt Project is a project to co-ordinate the development of the Qt software fr
 
 * Twitter: The application process is described at https://wiki.qt.io/Google_Summer_of_Code/Processes .
 ## [The syslog-ng project.](https://syslog-ng.org/)
-
-![The syslog-ng project.](//lh3.googleusercontent.com/eS6OVCe-uh3VoQLtgGqhjm0_4ewzZBiNasMW0S1N043C-aijdHBxtdweodtKB483LQhj9-2FcXSnvG7IVZLGiBD-_lovvE8)
 
 **With syslog-ng, you can collect logs from any source, process them in near real-time and deliver them to a wide variety of destinations.**
 
@@ -8234,8 +7846,6 @@ Want to deliver log messages to new system, that is not supported by any of the 
 * Twitter: https://github.com/balabit/syslog-ng/wiki/GSoC2018
 ## [The Vega Visualization Tools by the UW Interactive Data Lab](https://vega.github.io/)
 
-![The Vega Visualization Tools by the UW Interactive Data Lab](//lh3.googleusercontent.com/SpPtZ6sYc5OVjLDRkPVEYbLOEaAATKi3_2XrrZb7a-zaAnuicKkjEnifBbL-Kw2Etalj9m3ip8ukIg-mUDSSxg3SCcwgu9E)
-
 **An ecosystem of languages and graphical user interfaces for authoring, saving, and sharing interactive visualizations, created by the research lab that created D3.js.**
 
 ### Metadata
@@ -8268,8 +7878,6 @@ A complete GSoC application should include a presentation of yourself. The ideal
 Make sure to read the GSoC Student Guide at http://write.flossmanuals.net/gsocstudentguide/writing-a-proposal/.
 ## [The Wine Project](https://www.winehq.org/)
 
-![The Wine Project](//lh3.googleusercontent.com/qaqMBlZJgZ5tZmhQaBLr-3h5NS36RVTXFMJAVWEw0jXycIHxTS3qpNSkmf-blcxb7iG3FFb_uS6D97qZQyj4Z1XirsZRhBSR)
-
 **Wine runs Windows applications on Linux, BSD, Solaris, macOS and Android**
 
 ### Metadata
@@ -8298,8 +7906,6 @@ You are not allowed to reverse engineer Windows files by disassembling or decomp
 You are not allowed to analyze Windows files with the trace functions of Wine
 People who work or have worked for Microsoft should probably not participate
 ## [TimVideos.us](https://code.timvideos.us/)
-
-![TimVideos.us](//lh3.googleusercontent.com/UYTQ-_HMRrMPYmGyy9MvZ-RLqZneKslj19MqXhscfwc7NfpVnJenGQZUCDoP-xvNrHWPwVPcZISBwMzTZRDr6eJx_Ed3shI)
 
 **Projects for recording and streaming of conferences & user groups. From web front ends, high speed video code, low level embedded software & FPGA based firmware+hardware!**
 
@@ -8350,8 +7956,6 @@ Once you have found a project you are interested in working on, go to the issue 
 As mentioned in the [GSoC advice page](https://code.timvideos.us/summer-of-code/) page, mentors and the community are happy to review applications and give feedback. This will drastically improve the quality of your application and give you a better chance of being accepted.
 ## [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
 
-![TLA+](//lh3.googleusercontent.com/6mKSI7J1_HVVXztxRz74ybU6utkMnTYvgCh5koHXhn7nmYhzFVwe5gRYO6TTKpuPQNesGZteodvSz_MNDIreZVgbcSerNsgk)
-
 **TLA+ is a formal specification language developed to design, model, document, and verify concurrent systems.**
 
 ### Metadata
@@ -8381,8 +7985,6 @@ The principal TLA+ tools are the TLC model checker and TLAPS, the TLA+ proof sys
 
 * Twitter: You will be at the top of our list if you have previously contributed to TLA+. Just demonstrate your skills by picking a ["helpwanted" from our Github tacker](https://github.com/tlaplus/tlaplus/labels/help%20wanted).
 ## [UCSC Xena](http://xena.ucsc.edu)
-
-![UCSC Xena](//lh3.googleusercontent.com/_NWDfaeZnCQoRMEkL4I_EyLsACQLS-R8T9P15VfmtUnyqFm8TgtM3akFJ9qPNYzl5-wXBn3Qv28kQBgQwUQPSkjsBMUs1UM)
 
 **We create innovative ways to enable biologists to explore genome-wide data generated from human tumors, helping them to gain insights into the disease of cancer.**
 
@@ -8416,8 +8018,6 @@ We are interested in finding long-term collaborators and growing our development
 * Contact us so we can help you with the formulation of your proposal, either on our [public forum](https://groups.google.com/forum/#!forum/xena-google-summer-of-code) or via a [private email](mailto:genome-cancer@soe.ucsc.edu).
 * For questions of eligibility, see [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq).
 ## [VideoLAN](https://www.videolan.org)
-
-![VideoLAN](//lh3.googleusercontent.com/2LcJbfKqNQTly5thdKhej7Vy5R3STwSh02PtjXTR6ZUOqOzMicbN2eHp_wAiTTIoN108eLm-LYIvnIN15nVxAZywWGNw7VAv)
 
 **Open source multimedia, for everyone, everywhere.**
 
@@ -8457,8 +8057,6 @@ Before the project starts, we will ask you to provide a patch, to be sure that y
 If you have a doubt, are not sure about anything or want clarification, please get in touch with us, as soon as possible: we're nice.
 ## [ViSP](https://visp.inria.fr/)
 
-![ViSP](//lh3.googleusercontent.com/Nq5GbrXyu7ruGatTZx5ugbQFUU3CPlE9dBkjj0Y3XBGQZf11bFqZuBSfdEvR0dtX6mO9DdWs6L2A5y0ZuhaU5alJDSbMGA)
-
 **ViSP library includes state of the art computer vision, visual tracking and visual servoing algorithms that could be used in robotics or augmented reality applications.**
 
 ### Metadata
@@ -8497,8 +8095,6 @@ The user site is at https://visp.inria.fr/. The developer site is at: https://gi
    - We will dispatch the students and projects to the appropriate mentors
    - Accepted students will be posted on the GSoC site in May (and we will notify the accepted students ourselves).
 ## [vitrivr](https://vitrivr.org/)
-
-![vitrivr](//lh3.googleusercontent.com/lhsXqp2jbzRGGCqGvDStGvMyN3a1l0hwsZ6r1LUwWwuzDwSTYUgDtrS1Ji0x1jqHehwPbYExlFMvGXewfnBla5nmE-j2gvoW)
 
 **vitrivr enables you to use novel methods to search in images, music, video and 3d collections.**
 
@@ -8545,8 +8141,6 @@ Furthermore, we ask you to submit your code to one of the pre-projects mentioned
 See also http://www.vitrivr.org/gsoc.html#student-application for more details on what we expect.
 ## [webpack](https://webpack.js.org/)
 
-![webpack](//lh3.googleusercontent.com/PREeVrhiqeWuU3ve7MtspwQHriIEORP4xpbTgQ05ksAF9cRRHdcOZBrnq1e-TxQwiLXZ-KyUdBKETSAcuQNDCUcIlNKiq0o)
-
 **webpack is THE build solution for modern web and NodeJS applications**
 
 ### Metadata
@@ -8591,8 +8185,6 @@ We are looking for students who are passionate about JavaScript, in addition to 
 There are multiple tags here that you can choose from. We ask that you choose a proposal type if your idea is applicable, in addition to tagging one the org tags (webpack / webpack-contrib).
 ## [Wikimedia Foundation](http://wikimediafoundation.org/)
 
-![Wikimedia Foundation](//lh3.googleusercontent.com/MlBzuKHKCyx1jUHyDfDnSBEI7zeepAweZs3ko4ZeTPv5Z6DxunmwYiItjPflMiSUZjiINE_BU4BNbEwwaKHSbxTsfoQoXatx)
-
 **Global movement whose mission is to bring free educational content to the world.**
 
 ### Metadata
@@ -8617,8 +8209,6 @@ We believe that knowledge should be free for every human being. We prioritize ef
 
 * Twitter: https://www.mediawiki.org/wiki/Google_Summer_of_Code/Participants#Application_process_steps
 ## [WorldBrain.io - Verifying the Internet](http://worldbrain.io)
-
-![WorldBrain.io - Verifying the Internet](//lh3.googleusercontent.com/8g3dUIyto5-mko4qVa5DTHNuS3EXJdLPFrEqOIT328p-9BmRiO7D7Pgr-I7EGBkEzPLuj_5JV3YMNm9-23dFsds4YxJlDu73)
 
 **WorldBrain Memex - a bookmarking extension that works like your brain. Search for every word you remember about website you visited, filter by time, domain, tags & bookmarks.**
 
@@ -8670,8 +8260,6 @@ Still interested? Great!
 3) Happy hacking :)
 ## [X.org Foundation](http://www.x.org)
 
-![X.org Foundation](//lh3.googleusercontent.com/3u0WO0s26zv5FtG9SG0HPcW7sAwS-GyP2cM_L7TAYa_31yDlvw7mwaXWSsJbMpiohLtjIqzNNsbLyl-DSHxAVyNNVv4mgpk6)
-
 **The X.Org Foundation (or X.Org for short) is a foundation that encourages the development of the X Window System and related projects (Mesa, DRI, Wayland, etc.).**
 
 ### Metadata
@@ -8709,8 +8297,6 @@ Come help us make the future more open!
 Check out https://www.x.org/wiki/GSoCApplication/ for information about how to apply.
 ## [Xapian Search Engine Library](https://xapian.org/)
 
-![Xapian Search Engine Library](//lh3.googleusercontent.com/0VnXcFlKrqbWNNAnGsFhxTZOyQP-g2VB2JXzYfLGo6ZBlzLw2YprK4nd_M7hZGdil371LN8P0q5EaMin1iTYNY2dZh6KvDk)
-
 **Xapian is a Search Engine Library which aims to be fast, scalable, and flexible. The core library is written in C++, with bindings to allow use from many other languages.**
 
 ### Metadata
@@ -8736,8 +8322,6 @@ It supports ranking by Language Modelling, TF-IDF, probabilistic schemes, and Di
 
 * Twitter: Please follow the [instructions on our wiki](https://trac.xapian.org/wiki/GSoCApplicationTemplate "GSoC Application Template").
 ## [XBMC Foundation](http://kodi.tv)
-
-![XBMC Foundation](//lh3.googleusercontent.com/aIl6XKpfFObcroDTvToeSNW_AiiyNXJpWGJYm-WDSwAv4SfIe6623Ry8Z3kkjFlJA5GOiaBkfmVZHsAgtl9U2iXEvKtvkQ)
 
 **Kodi is a free and open source (GPL) software media player and entertainment hub for digital media.**
 
@@ -8777,8 +8361,6 @@ PROJECT TITLE GOES HERE
     Requirements: What is needed to complete the project, what code language knowledge what hardware etc.
     Possible mentors: Place to add possible mentors (Team-Kodi will add this).
 ## [Xi Editor Project](https://github.com/google/xi-editor)
-
-![Xi Editor Project](//lh3.googleusercontent.com/bpBHtNQ-7ZPC3Vbim5N_5YaY_xL8In7umlrH_3ANwsHMQd3DUBqJG2Anfhuqp2YiiM7zDPjkUjHcUS-pSyMqOJShgrCBkw)
 
 **A modern text editor with a backend written in Rust.**
 
@@ -8834,8 +8416,6 @@ A major focus this summer will be building out the plug-in ecosystem (currently 
 * Extending the UI and writing a plugin for version control (git) integration
 ## [xpra.org](https://xpra.org/)
 
-![xpra.org](//lh3.googleusercontent.com/yAy8AHxJAreAab1Oh3y0is3lY8aYKXr8eBaBtsfvhGF2jXpsAx2rZfa-KevoZU1Lly0GmvM7UIfqf3lvSOhnnCIahXNPewJP)
-
 **Xpra allows users to access individual applications or full desktops remotely.**
 
 ### Metadata
@@ -8861,8 +8441,6 @@ Xpra was originally just "persistent remote applications" for X11, it is now muc
 * adhere to the development process: getting code reviewed and merged via a patches or pull requests,
 * understand the codebase well enough to contribute: ideally by submitting bug fixes or new features
 ## [XWiki](http://www.xwiki.org/)
-
-![XWiki](//lh3.googleusercontent.com/rsLSgoEGGiStUrOG04A8MuEKS6JTtShMqGvvxHT3bw4A1EanhCJERT4ooMRULAYT7OnvP7rcejlxwXRmKSJOMbxkqQizaQ)
 
 **XWiki offers a generic web platform for developing collaborative applications using the wiki paradigm, allowing customization through a vast collection of extensions.**
 
@@ -8898,8 +8476,6 @@ Being part of the XWiki community means knowing [our rules and practices](http:/
 # Student Application template
 When applying for one of our projects, please provide [this information about yourself and the project you choose](http://dev.xwiki.org/xwiki/bin/view/GoogleSummerOfCode/student+application+form) in the application which you submit to Google.
 ## [Zulip](https://zulip.com)
-
-![Zulip](//lh3.googleusercontent.com/Am08vt8SXNBprT5_Or4nYAmNyKU9ZaXPOMDrRqK6lOEDWwhnQ01fg2BdQ0hoWgIF0ShsFJ0f3b_KcIRq2uBco28Xlex0Wg)
 
 **Powerful, modern, open source team chat, complete with apps for every major platform.**
 
