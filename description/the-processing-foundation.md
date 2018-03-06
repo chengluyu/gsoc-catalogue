@@ -1,0 +1,20 @@
+
+# [The Processing Foundation](http://processingfoundation.org)
+
+[Back to catalogue](../README.md#the-processing-foundation)
+
+The Processing Foundation was founded in 2012 after more than a decade of work with the original Processing software. The Foundation’s mission is to promote software literacy within the visual arts, and visual literacy within technology-related fields — and to make these fields accessible to diverse communities. Our goal is to empower people of all interests and backgrounds to learn how to program and make creative work with code, especially those who might not otherwise have access to these tools and resources.
+
+We do this by developing and distributing a group of related software projects, which includes [Processing (Java)](http://processing.org), [p5.js (JavaScript)](http://p5js.org), and [Processing.py (Python)](http://py.processing.org/), and facilitating partnerships and collaborations with allied organizations and individuals, to build a more diverse community around software and the arts.
+The Processing Foundation is specifically invested in expanding the communities of technology and the arts to include and support those who have not had equal access because of their race, gender, class, sexuality, and/or ability. We sponsor a Fellowship Program that funds exploratory, creative, and technical research; support an Advocacy Program, which focuses on nurturing diverse communities and their specific projects; produce public events that provide platforms for collaboration between our contributors; and take part in panels and talks that spread the word about the need for diversity in these fields.
+
+At our core is the philosophy and politics of free, libre, open-source software. We see software as a medium, something that connects two things. We view it as a means for thinking and making. We believe it should be free. We believe that learning to program is not about acquiring a certain skill set, but is instead a creative and exploratory process. We believe software, and the tools to learn it, should be accessible to everyone. We believe software literacy and an understanding of media of all kinds is essential knowledge for today.
+
+# Application Instructions
+
+* Twitter: Thanks for your interest in the Processing Foundation! We accept proposals for projects related to core development as well as libraries / add-ons for Processing, Processing for
+Android, p5.js, and Python Mode. The first thing you should do is read over the [Project List wiki page on github](https://github.com/processing/processing/wiki/Project-List). There you'll find links to all of the relevant github repositories as well as lists of topics and projects for which we are actively seeking help. If you have questions about an idea or need guidance on forming your proposal, please post to the [Processing Forum](https://forum.processing.org/two/categories/summer-of-code-2018).
+ 
+For GSoC, we actively seek help with features we know we need, but also look to applicants to propose ideas we haven't thought of ourselves. If you have an idea for a new feature for any of our environments, it's generally preferable to propose it as a library or mode so that it can be developed and tested as a standalone project. For all of our projects, it's incredibly important that things are kept as simple and user-friendly as possible. Our work is not for developers. It's for people who are less familiar with code, and/or just want to get things done. We're far less interested in features to make the environments more powerful for advanced users than we are in features that make it easier to handle tasks that are common for a wide range of our audience. 
+
+You should feel free to propose your idea however you see fit. If you are looking for guidance, [here is a proposal template](https://docs.google.com/document/d/1UFcWh2IWqhICh4YIFNwtKUaWWXifaBB67rjPxbYzjbE/edit?usp=sharing).

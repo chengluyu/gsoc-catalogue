@@ -1,0 +1,17 @@
+
+# [The Vega Visualization Tools by the UW Interactive Data Lab](https://vega.github.io/)
+
+[Back to catalogue](../README.md#interactive-data-lab-at-the-university-of-washington)
+
+Over years working in data visualization, we’ve sought to build tools that help designers craft sophisticated graphics, including systems such as Prefuse, Protovis and D3.js. However, in the grand scheme of things, “artisanal” visualizations hand-coded by skilled designers are the exception, not the rule. The vast majority of the world’s visualizations instead are produced using end-user applications such as spreadsheets and business intelligence tools. While valuable, these tools often fall short of fully supporting the iterative, interactive process of data analysis. Improved tools could help a larger swath of people create effective visualizations and better understand their data.
+The goal of the Vega project is to promote an ecosystem of usable and interoperable visualization tools, supporting use cases ranging from exploratory data analysis to effective communication via custom visualization design.
+This goal has led us to develop not a singular system, but rather a stack of tools for interactive data visualization. At the foundation of this stack is the Vega visualization grammar. Similar to how SQL provides a language for expressing database queries, Vega provides a declarative language for describing interactive visualizations with primitive building blocks such as data, transforms, marks, and event streams.  On top of Vega, Vega-Lite provides a concise language for rapidly generating statistical graphics to support data analysis.  With Vega and Vega-Lite, we have built a number of graphical user interfaces including the Voyager visualization tool, which blends manual and automated chart authoring to facilitate exploratory data analysis. 
+Tools from the Vega ecosystems have been adopted by the Jupyter/Python data science communities, Wikipedia, and leading tech companies including Apple, Google, Microsoft, Netflix, FitBit, and Twitter.
+
+# Application Instructions
+
+* Twitter: Students who want to apply to the Vega project should submit at least one patch through GitHub before submitting an application. The reason that we require this is to make sure that  you can set up your development environment and work with the development infrastructure. A possible patch can be a new tutorial, a new example visualization, or a bug fix for any issue. A list of examples that could be implemented is at https://github.com/vega/vega-lite/issues/1486. We have also marked issues that we think are suitable for newcomers on GitHub : https://github.com/vega/vega-lite/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+first+issue%22. 
+
+A complete GSoC application should include a presentation of yourself. The ideal candidate should demonstrate excitements and the ability to successfully finish a project. To help you convince us, we encourage applications with a project plan. Our list of suggested projects (http://bit.ly/vega-gsoc-2018) is not exhaustive, and more importantly, each idea only includes a summary of what could be done. An application should describe how you think the project may be split up into milestones. For any UI projects, having initial mockups would be helpful. Proposals that affect the declarative specification should include examples. 
+
+Make sure to read the GSoC Student Guide at http://write.flossmanuals.net/gsocstudentguide/writing-a-proposal/.

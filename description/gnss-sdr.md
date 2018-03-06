@@ -1,0 +1,17 @@
+
+# [GNSS-SDR](http://gnss-sdr.org/)
+
+[Back to catalogue](../README.md#gnss-sdr)
+
+GNSS-SDR is an open source Global Navigation Satellite Systems software receiver, written in C++, that is able to work either from raw signal samples stored in a file, or in real-time with a radio-frequency front-end as signal source, and performs all the signal processing until the observable computation and Position-Velocity-Time solution. Its modularity allows users to populate the framework with their own algorithms, allowing to put the focus on the signal processing implementation without worrying about how to embed that algorithm in a whole GNSS receiver. It also makes possible fair performance benchmarks using real GNSS signals, and its open source license allows free downloading, use and code inspection.
+The proposed software receiver targets multi-constellation/multi-frequency architectures, pursuing the goals of efficiency, modularity, interoperability, and flexibility demanded by user domains that require non-standard features, such as earth observers or geodesists, and allowing applications such as the observation of the ionosphere, GNSS reflectometry, signal quality monitoring, space weather, and high-accuracy positioning based on carrier-phase navigation techniques. In this project, we focus on signal processing, understood as the process between the ADC and the computation of code and phase observables, including the demodulation of the navigation message. We purposely omit data processing, understood as the computation of the navigation solution from the observables and the navigation message, since there are a number of well-established libraries and applications for that (also in the open source side, such as GPSTk or RTKLIB).
+
+# Application Instructions
+
+* Twitter: If you are an eligible and interested student, read through the list and note the projects you are interested in. Then submit a proposal to Google, using the GSoC 2017 website. We recommend you to submit your application early. By doing so, it will be given a greater share of attention than is possible for applications submitted at the last minute.
+You might submit a proposal following the guidelines below, or you might want to adapt it. Changes to the proposal could include:
++ You think the project as suggested is too large and you can only feasibly complete part of it; if so, make sure your proposal covers a reasonable subset of the functionality.
++ You think the project as suggested is too small; in this case you might want to extend the idea, combine projects, etc.
++ You like the basic idea of the project but it is not such a good fit for the skills that you have; in this case please feel free to suggest an alternative.
+
+Your proposal should include the following: your project proposal, why you would like to execute on this particular project, and the reason you are the best individual to do so. Your proposal should also include details of your academic, industry, and/or open source development experience, and other details as you see fit. An explanation of your development methodology and schedule is a good idea, as well. It is always helpful to include your contact information, as it will not be automatically shared with your would-be mentors as part of the proposal process.

@@ -18,8 +18,8 @@ if __name__ == '__main__':
         for item in obj['results']:
             output.write('\n## [%s](%s)\n' % (item['name'], item['website_url']))
             output.write('\n**%s**\n' % item['precis'])
-            output.write('\n### Metadata\n')
-            output.write('\n[View ideas list](%s)\n' % item['ideas_list'])
+            output.write('\n[Ideas List](%s) | ' % item['ideas_list'])
+            output.write('[Description](description/%s.md)\n' % item['slug'])
             output.write('\n* Category: ' + item['category'])
             output.write('\n* Techonology: %s' % ', '.join(map(quote, item['technology_tags'])))
             output.write('\n* Topics: %s' % ', '.join(map(quote, item['topic_tags'])))
@@ -35,9 +35,11 @@ if __name__ == '__main__':
             if item['primary_open_source_license'] is not None:
                 output.write('\n* Primary Open Source License: %s' % item['primary_open_source_license'])
             output.write('\n')
-            output.write('\n### Description\n')
-            output.write('\n%s\n' % item['description'])
-            if item['application_instructions'] is not None:
-                output.write('\n### Application Instructions\n')
-                output.write('\n* Twitter: %s' % item['application_instructions'])
+            with open('description/%s.md' % item['slug'], 'w', encoding='utf-8') as handle:
+                handle.write('\n# [%s](%s)\n' % (item['name'], item['website_url']))
+                handle.write('\n[Back to catalogue](../README.md#%s)\n' % item['slug'])
+                handle.write('\n%s\n' % item['description'])
+                if item['application_instructions'] is not None:
+                    handle.write('\n# Application Instructions\n')
+                    handle.write('\n* Twitter: %s' % item['application_instructions'])
     print('Done.')
